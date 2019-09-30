@@ -6,26 +6,26 @@ A django based web application which detects flairs of [India subreddit](https:/
   
    1. [Jupyter Notebooks](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/Jupyter%20Notebooks) - Folder containing Jupyter Notebooks containing codes to collect, preprocess and train machine learning models.
   2. [MongoDB Data](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/MongoDB%20Data/flair_database) - The database used to train models. contains testing and training data.
-  3. [flair](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/flair) - Contains the main application with two web pages - Detect Flair and Analysis. Detect Flair is a predictor that outputs a flair for a given post url. Analysis shows graph depicting no. of comments & upvotes against flairs.
-  4. [mysite](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/mysite) - Contains the django applicaton configurations.
-  5. [Procfile](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/Procfile) - Needed to setup Heroku.
-  6. [manage.py](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/manage.py) - Used to start the django server.
-  7. [requirements.txt](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/requirements.txt) - Contains all the dependencies for the webapp. (heroku)
-  8. [runtime.txt](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/runtime.txt) - contains the python version needed for this project. (heroku)
+  3. [Django App](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/reddit_flair_detection) - Contains the webapp to detect reddit post flair and analyse flair data.
+  4. [Procfile](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/Procfile) - Needed to setup Heroku.
+  5. [requirements.txt](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/requirements.txt) - Contains all the dependencies for the webapp. (heroku)
+  6. [runtime.txt](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/runtime.txt) - contains the python version needed for this project. (heroku)
   
 ### CodeBase
 
-Python 2.7 programming language is create the source code of this project.
+Python 3.6 programming language is create the source code of this project.
 
 
 ### Project Execution
 
   1. Open the `Terminal`.
   2. Clone the repository by entering `git clone https://github.com/radonys/Reddit-Flair-Detector.git`.
-  3. Ensure that `Python2` and `pip` is installed on the system.
-  4. install dependencies present in requirements.txt
-  5. Now, start the server by executing the following command: `python manage.py runserver` and it will point to the `localhost` with the port.
-  6. Hit the "`IP Address`/flair" on a web browser and use the application. 
+  3. Ensure that `Python3` and `pip3` is installed on the system.
+  4. Create a `virtualenv` by executing the following command: `virtualenv env`.
+  5. Activate the `env` virtual environment by executing the follwing command: `source env/bin/activate`.
+  6. Enter the cloned repository directory and execute `pip3 install -r requirements.txt`.
+  7. Now, start the server by executing the following command: `python manage.py runserver` and it will point to the `localhost` with the port.
+  8. Hit the "`IP Address`/flair" on a web browser and use the application. 
   
 ### Dependencies
 
@@ -51,7 +51,12 @@ Install the following dependencies which can also be foundh here with specific v
     c) MLP
 
    4. Training and Testing on the dataset showed that **MLP Classifier** showed the best testing accuracy of **61.11%** when trained on all features.
-   15. The best model is saved and is used for prediction of the flair from the URL of the post.
+   5. The best model is saved and is used for prediction of the flair from the URL of the post.
+   6. [Predict Flair](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/Jupyter%20Notebooks/Predict%20Flair.ipynb) Predicts the flair for a given url by getting all features of the post using raw and predicting flair type using the saved model after the same preprocessing as done before.
+   7. [Analyze](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/Jupyter%20Notebooks/Analyze.ipynb) Contains code used to explore the reddit dataset
+   8. [predict_function](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/Jupyter%20Notebooks/predict_function.py) concatenates all the given features of data (file name is misleading)
+   9. [preprocessing_functions](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/Jupyter%20Notebooks/preprocessing_functions.py) contains all functions used to preprocess data. it  filters, tokenizes, vectorizes string data, scales numerical data, converts booleans to ints.
+   
     
 ### Results
 
@@ -117,5 +122,7 @@ Install the following dependencies which can also be foundh here with specific v
 
 ### References
 
-1. [How to scrape data from Reddit](https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html)
-2. [Readme Reference](https://github.com/radonys/Reddit-Flair-Detector/blob/master/README.md)
+1. [Praw Documentation](https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html)
+2. [Scraping Reddit data](https://towardsdatascience.com/scraping-reddit-data-1c0af3040768)
+3. [Readme Reference](https://github.com/radonys/Reddit-Flair-Detector/blob/master/README.md)
+
