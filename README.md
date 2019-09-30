@@ -116,7 +116,7 @@ Install the following dependencies which can also be foundh here with specific v
 
 ### WebApp Screenshots
 
-![all_text](flair_detect.png)
+![all_text](detect_flair.png)
 
 ![all_text](analysis.png)
 
