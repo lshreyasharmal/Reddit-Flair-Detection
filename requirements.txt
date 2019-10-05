@@ -211,7 +211,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 sklearn==0.0
 smart-open==1.8.4
-smop==0.0.0
+smop==0.41
 snowballstemmer==1.2.1
 sortedcollections==0.5.3
 sortedcontainers==1.5.9
