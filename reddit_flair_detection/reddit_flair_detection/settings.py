@@ -128,8 +128,14 @@ STATICFILES_DIRS = (
 
 STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
-FAST_TEXT_MODEL = joblib.load(open("flair/fast_text_model.pkl","rb"))
-CLASSIFIER = joblib.load(open("flair/classifier.pkl","rb"))
-SCALER = joblib.load(open("flair/scaler.pkl","rb"))
-DATA = np.load("flair/final_data.npy")
+FAST_TEXT_MODEL_PATH = os.path.join(BASE_DIR,'reddit_flair_detection/static/fast_text_model.pkl')
+CLASSIFIER_PATH = os.path.join(BASE_DIR,'reddit_flair_detection/static/classifier.pkl')
+SCALER_MODEL_PATH = os.path.join(BASE_DIR,'reddit_flair_detection/static/scaler.pkl')
+FINAL_DATA_PATH = os.path.join(BASE_DIR,'reddit_flair_detection/static/final_data.npy')
+
+
+FAST_TEXT_MODEL = joblib.load(open(FAST_TEXT_MODEL_PATH,"rb"))
+CLASSIFIER = joblib.load(open(CLASSIFIER_PATH,"rb"))
+SCALER = joblib.load(open(SCALER_MODEL_PATH,"rb"))
+DATA = np.load(FINAL_DATA_PATH)
 ALL_DATA = pd.DataFrame.from_records(DATA)
