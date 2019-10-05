@@ -1,0 +1,1 @@
+web: gunicorn reddit_flair_detection.wsgi --log-file -
