@@ -134,6 +134,7 @@ SCALER_MODEL_PATH = os.path.join(BASE_DIR,'reddit_flair_detection/static/scaler.
 FINAL_DATA_PATH = os.path.join(BASE_DIR,'reddit_flair_detection/static/final_data.npy')
 
 
+
 FAST_TEXT_MODEL = joblib.load(open(FAST_TEXT_MODEL_PATH,"rb"))
 CLASSIFIER = joblib.load(open(CLASSIFIER_PATH,"rb"))
 SCALER = joblib.load(open(SCALER_MODEL_PATH,"rb"))
