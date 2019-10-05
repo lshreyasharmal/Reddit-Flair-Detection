@@ -66,7 +66,6 @@ gast==0.2.0
 gensim==3.8.0
 gevent==1.2.2
 glob2==0.6
-gmpy2==2.0.8
 google-api-python-client==1.6.7
 greenlet==0.4.12
 grin==1.2.1
