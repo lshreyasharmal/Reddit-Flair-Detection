@@ -221,7 +221,6 @@ spyder==3.2.6
 SQLAlchemy==1.2.1
 statsmodels==0.8.0
 stop-words==2015.2.23.1
-subprocess32==3.2.7
 sympy==1.1.1
 tables==3.4.2
 tabulate==0.8.2
