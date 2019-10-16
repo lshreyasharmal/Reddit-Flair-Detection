@@ -101,7 +101,6 @@ scikit-learn==0.21.2
 scipy==1.1.0
 simplejson==3.13.2
 sklearn==0.0
-ssh-import-id==5.7
 stop-words==2015.2.23.1
 system-service==0.3
 systemd-python==234
