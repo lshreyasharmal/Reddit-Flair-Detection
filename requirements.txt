@@ -102,8 +102,6 @@ scipy==1.1.0
 simplejson==3.13.2
 sklearn==0.0
 stop-words==2015.2.23.1
-system-service==0.3
-systemd-python==234
 text-unidecode==1.2
 ubuntu-drivers-common==0.0.0
 ufw==0.35
