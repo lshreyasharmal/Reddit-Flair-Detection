@@ -10,7 +10,6 @@ botocore==1.12.42
 bz2file==0.98
 certifi==2018.10.15
 chardet==3.0.4
-command-not-found==0.3
 contractions==0.0.16
 cryptography==2.1.4
 cupshelpers==1.0
