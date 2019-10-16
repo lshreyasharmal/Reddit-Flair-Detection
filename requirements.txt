@@ -15,7 +15,7 @@ cryptography==2.1.4
 cycler==0.10.0
 Cython==0.28.3
 decorator==4.4.0
-distro-info===0.18ubuntu0.18.04.1
+distro-info===0.10
 Django==1.11.1
 django-appconf==1.0.2
 django-compressor==2.2
