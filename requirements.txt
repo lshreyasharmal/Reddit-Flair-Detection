@@ -1,5 +1,4 @@
 apiclient==1.0.3
-apturl==0.5.2
 asn1crypto==0.24.0
 Babel==2.6.0
 backcall==0.1.0
