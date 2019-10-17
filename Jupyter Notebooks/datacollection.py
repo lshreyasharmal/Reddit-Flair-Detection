@@ -66,9 +66,6 @@ flair_count = {
 data = []
 
 
-# In[8]:
-
-
 reddit = praw.Reddit(client_id="z8UhRRiFnEVZ8Q",
                      client_secret="bV7OxwG-VKjdyKxcuUihnV1lNPg",
                      password="qazwsx123",
@@ -94,6 +91,7 @@ for submission in subreddit.top(limit=1000000):
         post['author'] = author[len(author)-2]
         
         print("appending comments:")
+
         comments = []
         submission.comments.replace_more(limit=None)
         for comment in submission.comments.list():
@@ -104,6 +102,7 @@ for submission in subreddit.top(limit=1000000):
         post_features = {field:post[field] for field in features}
         
         print("flair : " + flair_text)
+
         data.append(post_features)
         i+=1
         
