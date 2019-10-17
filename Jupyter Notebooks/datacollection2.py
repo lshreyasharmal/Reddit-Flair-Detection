@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[1]:
+# In[9]:
 
 
 import praw 
@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 
 
-# In[2]:
+# In[10]:
 
 
 features = ['num_comments',
@@ -66,6 +66,9 @@ flair_count = {
 data = []
 
 
+# In[11]:
+
+
 reddit = praw.Reddit(client_id="z8UhRRiFnEVZ8Q",
                      client_secret="bV7OxwG-VKjdyKxcuUihnV1lNPg",
                      password="qazwsx123",
@@ -91,7 +94,6 @@ for submission in subreddit.top(limit=1000000):
         post['author'] = author[len(author)-2]
         
         print("appending comments:")
-
         comments = []
         submission.comments.replace_more(limit=None)
         for comment in submission.comments.list():
@@ -102,11 +104,10 @@ for submission in subreddit.top(limit=1000000):
         post_features = {field:post[field] for field in features}
         
         print("flair : " + flair_text)
-
         data.append(post_features)
         i+=1
         
-    for (k,v) in flair_count.iteritems():
+    for (k,v) in flair_count.items():
         if(v>=200):
             done = True
         else:
