@@ -14,7 +14,7 @@ from preprocessing_functions import *
 import re
 import nltk
 nltk.download('stopwords')
-
+nltk.download('punkt')
 
 # In[2]:
 
