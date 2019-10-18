@@ -20,7 +20,7 @@ import re
 with open("all_data.npy","rb") as file:
     data_ = np.load(file,encoding='bytes')
 
-keys = [x.decode("utf-8")  for x in data_[0].keys()]
+# keys = [x.decode("utf-8")  for x in data_[0].keys()]
 keys
 
 np_data = []
