@@ -12,6 +12,8 @@ from sklearn.preprocessing import MinMaxScaler
 from gensim.models import FastText
 from preprocessing_functions import *
 import re
+import nltk
+nltk.download('stopwords')
 
 
 # In[2]:
