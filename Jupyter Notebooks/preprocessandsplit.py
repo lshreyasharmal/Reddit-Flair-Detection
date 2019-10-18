@@ -27,10 +27,11 @@ np_data = []
 for d in data_:
     new_d = {}
     for k in keys:
-        if(isinstance(d[k.encode("utf-8")],bytes)):
-            new_d[k]=d[k.encode("utf-8")].decode("utf-8")
-        else:
-            new_d[k]=d[k.encode("utf-8")]
+        new_d[k] = d[k]
+#         if(isinstance(d[k.encode("utf-8")],bytes)):
+#             new_d[k]=d[k.encode("utf-8")].decode("utf-8")
+#         else:
+#             new_d[k]=d[k.encode("utf-8")]
     np_data.append(new_d)
 
 np.save("final_data.npy",np.array(np_data))
