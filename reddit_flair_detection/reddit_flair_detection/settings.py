@@ -137,7 +137,7 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
 
-STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 FAST_TEXT_MODEL_PATH = os.path.join(BASE_DIR,'reddit_flair_detection/static/fast_text_model.pkl')
 CLASSIFIER_PATH = os.path.join(BASE_DIR,'reddit_flair_detection/static/classifier.pkl')
