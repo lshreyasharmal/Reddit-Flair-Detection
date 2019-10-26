@@ -88,7 +88,7 @@ else:
     DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'redditDb',
+        'NAME': 'redditdb',
         'USER': 'reddit_admin',
         'PASSWORD': 'shreyarocks12',
         'HOST': 'localhost',
