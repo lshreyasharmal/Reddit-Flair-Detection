@@ -4,7 +4,7 @@ A django based web application which detects flairs of [India subreddit](https:/
 
 ### Directory Structure
   
-   1. [Jupyter Notebooks](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/Jupyter%20Notebooks) - Folder containing Jupyter Notebooks containing codes to collect, preprocess and train machine learning models.
+   1. [Jupyter Notebooks](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/Jupyter%20Notebooks) - Folder containing Jupyter Notebooks that has codes to collect & preprocess data and train machine learning models.
   2. [MongoDB Data](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/MongoDB%20Data/flair_database) - The database used to train models. contains testing and training data.
   3. [Django App](https://github.com/lshreyasharmal/Reddit-Flair-Detection/tree/master/reddit_flair_detection) - Contains the webapp to detect reddit post flair and analyse flair data.
  <!---  4. [Procfile](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/Procfile) - Needed to setup Heroku.
