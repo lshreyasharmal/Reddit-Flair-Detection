@@ -111,8 +111,11 @@ Install the following dependencies which can also be foundh here with specific v
 #### Accuracies for other combinations are present in the jupyter notebook [Create Model](https://github.com/lshreyasharmal/Reddit-Flair-Detection/blob/master/Jupyter%20Notebooks/Create%20Model.ipynb)
 
 ### Future Work and Improvements
-  1. Since the project uses git and git lfs, there is some integration problem with Heroku because of which models are not being loaded. Hopefully, will figure it out and deploy the app online.
-  2. Collect more posts such that posts belonging to all Flairs can be used. Currently, the data is uneven and there is no data belonging to Scheduled Flair.
+  1. Collect more posts such that posts belonging to all Flairs can be used. Currently, the data is uneven and there is no data belonging to Scheduled Flair. Collect equal number of posts of each flair
+  2. Collect "created_utc" feature for Analysis part to show how the flaired posts are submitted throughout the day.
+  3. Look for main keywords used in the post to show what the post is about or summarize the post in the analysis part of the task.
+  4. Imporve the UI
+  5. Preprocess data differently: Use word vectorizer instead of fast text, filter the features.
 
 ### WebApp Screenshots
 
