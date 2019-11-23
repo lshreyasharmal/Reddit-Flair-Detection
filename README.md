@@ -115,7 +115,7 @@ Install the following dependencies which can also be foundh here with specific v
   2. Collect "created_utc" feature for Analysis part to show how the flaired posts are submitted throughout the day.
   3. Look for main keywords used in the post to show what the post is about or summarize the post in the analysis part of the task.
   4. Imporve the UI
-  5. Preprocess data differently: Use word vectorizer instead of fast text, filter the features.
+  5. Preprocess data differently: Use word2vec or tf-idf instead of fast text, filter the features.
 
 ### WebApp Screenshots
 
