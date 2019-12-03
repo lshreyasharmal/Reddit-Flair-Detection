@@ -15,4 +15,4 @@ from django.core.wsgi import get_wsgi_application
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "reddit_flair_detection.settings")
 
 application = get_wsgi_application()
-#application = DjangoWhiteNoise(application)
+application = DjangoWhiteNoise(application)
