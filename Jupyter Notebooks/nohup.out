@@ -1,0 +1,2811 @@
+[I 10:03:56.483 NotebookApp] The port 8888 is already in use, trying another port.
+[I 10:03:56.483 NotebookApp] The port 8889 is already in use, trying another port.
+[I 10:03:56.487 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 10:03:56.487 NotebookApp] The Jupyter Notebook is running at:
+[I 10:03:56.487 NotebookApp] http://ubuntu:8890/
+[I 10:03:56.487 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:03:56.491 NotebookApp] No web browser found: could not locate runnable browser.
+[I 17:44:14.713 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 17:44:14.714 NotebookApp] The Jupyter Notebook is running at:
+[I 17:44:14.714 NotebookApp] http://ubuntu:8888/
+[I 17:44:14.714 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:44:14.717 NotebookApp] No web browser found: could not locate runnable browser.
+[W 17:44:21.184 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 17:44:21.714 NotebookApp] Kernel started: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 17:46:22.466 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 17:46:22.467 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 17:49:37.856 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:34227680b1dc4bf5b4207892e548f9b7
+[W 17:59:44.739 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:00:03.615 NotebookApp] Kernel started: b4a076ae-7a48-4a5b-8e41-fc09af617e07
+[I 18:01:45.316 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:01:45.317 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:07:11.253 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:07:11.253 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:07:45.310 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:07:45.311 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:09:45.271 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:09:45.272 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:11:45.403 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:11:45.404 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:12:58.584 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 18:13:00.393 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 18:13:00.982 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 18:13:00.982 NotebookApp] Replaying 5 buffered messages
+[I 18:13:45.526 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:13:45.527 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:15:45.544 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:15:45.545 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[W 18:16:26.025 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 18:16:26.300 NotebookApp] Kernel started: 9d6787c4-e645-4c7d-a5e5-02fe2b091c55
+[I 18:17:46.191 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:17:46.192 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:18:26.533 NotebookApp] Saving file at /Create Model.ipynb
+[W 18:18:26.534 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 18:20:26.836 NotebookApp] Saving file at /Create Model.ipynb
+[W 18:20:26.837 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 18:21:45.869 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:21:45.870 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:23:46.137 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:23:46.138 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:25:45.891 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:25:45.891 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:27:05.977 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 18:27:06.786 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 18:27:07.428 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 18:27:07.428 NotebookApp] Replaying 6 buffered messages
+[I 18:27:46.351 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:27:46.352 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:29:46.334 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:29:46.334 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:31:45.891 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:31:45.892 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:34:03.763 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:36:04.190 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:38:03.787 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:40:04.869 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:41:48.058 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:41:48.059 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 18:42:04.946 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:44:03.792 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:46:03.745 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:48:03.779 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:50:13.763 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:54:04.326 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:55:46.627 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 18:55:46.628 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 19:00:07.090 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:14:02.754 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 19:14:02.755 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:ab5386c5540449c5897dd45bac80e6aa
+[I 19:14:02.755 NotebookApp] Starting buffering for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:da8e67b82e0847febcdd033668e20c4e
+[I 19:14:07.520 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 19:14:07.602 NotebookApp] Restoring connection for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:da8e67b82e0847febcdd033668e20c4e
+[I 19:14:09.815 NotebookApp] Restoring connection for b4a076ae-7a48-4a5b-8e41-fc09af617e07:ab5386c5540449c5897dd45bac80e6aa
+[I 19:14:13.543 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:ab5386c5540449c5897dd45bac80e6aa
+[I 19:14:49.738 NotebookApp] Uploading file to /datacollection.py
+[I 19:16:09.371 NotebookApp] Saving file at /datacollection.py
+[I 19:18:56.657 NotebookApp] Saving file at /datacollection.py
+[I 19:20:16.874 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:29:18.095 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:b92ff74c33fb45d5870878a3c068a8c6
+[I 19:29:23.159 NotebookApp] Kernel restarted: b4a076ae-7a48-4a5b-8e41-fc09af617e07
+[I 19:29:23.736 NotebookApp] Restoring connection for b4a076ae-7a48-4a5b-8e41-fc09af617e07:b92ff74c33fb45d5870878a3c068a8c6
+[I 19:29:38.361 NotebookApp] Saving file at /datacollection.py
+[I 19:30:44.353 NotebookApp] The port 8888 is already in use, trying another port.
+[I 19:30:44.357 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 19:30:44.357 NotebookApp] The Jupyter Notebook is running at:
+[I 19:30:44.357 NotebookApp] http://ubuntu:8889/
+[I 19:30:44.357 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:30:44.360 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:31:08.231 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 19:31:08.232 NotebookApp] Starting buffering for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:da8e67b82e0847febcdd033668e20c4e
+[I 19:31:08.232 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:b92ff74c33fb45d5870878a3c068a8c6
+[I 19:31:12.563 NotebookApp] Restoring connection for b4a076ae-7a48-4a5b-8e41-fc09af617e07:b92ff74c33fb45d5870878a3c068a8c6
+[I 19:31:12.645 NotebookApp] Restoring connection for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:da8e67b82e0847febcdd033668e20c4e
+[I 19:31:15.311 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 19:31:21.892 NotebookApp] Starting buffering for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:da8e67b82e0847febcdd033668e20c4e
+[I 19:31:24.882 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:b92ff74c33fb45d5870878a3c068a8c6
+[I 19:33:25.655 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:33:46.373 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 19:33:46.374 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[I 19:35:25.653 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:37:32.960 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:39:25.648 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:47:25.658 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:49:26.548 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:51:25.642 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:53:25.664 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:55:25.664 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:57:26.728 NotebookApp] Saving file at /Data Collection.ipynb
+[I 19:59:25.655 NotebookApp] Saving file at /Data Collection.ipynb
+[I 20:01:25.701 NotebookApp] Saving file at /Data Collection.ipynb
+[I 20:03:25.968 NotebookApp] Saving file at /Data Collection.ipynb
+[I 20:05:25.676 NotebookApp] Saving file at /Data Collection.ipynb
+[I 20:07:25.676 NotebookApp] Saving file at /Data Collection.ipynb
+[I 20:17:25.723 NotebookApp] Saving file at /Data Collection.ipynb
+[I 20:17:27.396 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:7be93232e5cb4d8a9fbc3e9e5fdb7c8f
+[I 20:17:29.307 NotebookApp] Kernel restarted: b4a076ae-7a48-4a5b-8e41-fc09af617e07
+[I 20:17:29.963 NotebookApp] Restoring connection for b4a076ae-7a48-4a5b-8e41-fc09af617e07:7be93232e5cb4d8a9fbc3e9e5fdb7c8f
+[I 20:17:29.963 NotebookApp] Replaying 3 buffered messages
+[I 20:19:25.650 NotebookApp] Saving file at /Data Collection.ipynb
+[I 20:20:50.139 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:7be93232e5cb4d8a9fbc3e9e5fdb7c8f
+[I 20:20:50.140 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:416f8dba1d3440be869ab70a0c25a1e6
+[I 20:25:35.012 NotebookApp] The port 8888 is already in use, trying another port.
+[I 20:25:35.012 NotebookApp] The port 8889 is already in use, trying another port.
+[I 20:25:35.013 NotebookApp] The port 8890 is already in use, trying another port.
+[I 20:25:35.016 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 20:25:35.016 NotebookApp] The Jupyter Notebook is running at:
+[I 20:25:35.017 NotebookApp] http://ubuntu:8891/
+[I 20:25:35.017 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:25:35.020 NotebookApp] No web browser found: could not locate runnable browser.
+[I 20:25:56.215 NotebookApp] 302 GET / (127.0.0.1) 0.89ms
+[W 20:26:22.172 NotebookApp] Notebook Pre-process and Split.ipynb is not trusted
+[W 20:26:26.835 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 20:26:28.766 NotebookApp] Kernel interrupted: 9d6787c4-e645-4c7d-a5e5-02fe2b091c55
+[I 20:26:35.628 NotebookApp] Kernel interrupted: b4a076ae-7a48-4a5b-8e41-fc09af617e07
+[I 20:26:53.626 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:9946f4b414ec4d718b59bc86e35b630a
+[I 20:26:54.238 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:26:54.920 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:9946f4b414ec4d718b59bc86e35b630a
+[I 20:26:54.920 NotebookApp] Replaying 6 buffered messages
+[I 20:27:45.957 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:61794554ae464397be5962da2e28d063
+[I 20:27:46.466 NotebookApp] Kernel restarted: b4a076ae-7a48-4a5b-8e41-fc09af617e07
+[I 20:27:47.031 NotebookApp] Restoring connection for b4a076ae-7a48-4a5b-8e41-fc09af617e07:61794554ae464397be5962da2e28d063
+[I 20:27:47.031 NotebookApp] Replaying 3 buffered messages
+[I 20:28:26.399 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:28:28.656 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:03:58.355 NotebookApp] Kernel interrupted: b4a076ae-7a48-4a5b-8e41-fc09af617e07
+[I 21:04:28.672 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:06:28.703 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:08:28.972 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:10:28.652 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:12:33.154 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:14:32.336 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:16:28.759 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:18:28.691 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:20:28.699 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:22:28.690 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:24:28.721 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:26:28.694 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:32:28.746 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:36:28.704 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:38:28.920 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:42:28.717 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:44:28.705 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:46:28.725 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:50:29.020 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:52:29.458 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:54:29.106 NotebookApp] Saving file at /Data Collection.ipynb
+[I 21:56:29.114 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:04:29.789 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:06:28.809 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:08:31.481 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:10:28.723 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:12:31.887 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:14:32.724 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:16:28.774 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:18:30.738 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:20:28.764 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:22:28.705 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:24:28.732 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:26:28.738 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:30:28.731 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:32:28.720 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:34:28.748 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:36:28.723 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:38:29.085 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:40:28.939 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:42:28.708 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:44:28.722 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:46:28.777 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:48:28.767 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:50:28.728 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:52:28.721 NotebookApp] Saving file at /Data Collection.ipynb
+[I 22:54:28.699 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:02:28.868 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:04:28.746 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:06:28.732 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:08:28.723 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:14:29.349 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:22:28.822 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:24:29.145 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:26:28.739 NotebookApp] Saving file at /Data Collection.ipynb
+[W 23:32:26.519 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 23:32:26.967 NotebookApp] iopub messages resumed
+[I 23:32:29.768 NotebookApp] Saving file at /Data Collection.ipynb
+[W 23:32:31.048 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 23:32:31.956 NotebookApp] iopub messages resumed
+[I 23:34:29.184 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:36:28.719 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:38:28.758 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:40:28.724 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:42:29.300 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:44:29.257 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:46:29.002 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:48:28.987 NotebookApp] Saving file at /Data Collection.ipynb
+[W 23:49:48.318 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 23:49:51.057 NotebookApp] iopub messages resumed
+[W 23:49:53.035 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 23:49:55.250 NotebookApp] iopub messages resumed
+[I 23:50:31.068 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:52:30.296 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:54:28.870 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:56:28.774 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:58:29.501 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:00:29.708 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:02:29.711 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:04:29.151 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:08:29.058 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:10:29.157 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:12:31.467 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:14:29.408 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:16:29.055 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:18:29.299 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:20:28.885 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:22:29.136 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:24:28.980 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:26:28.825 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:28:29.011 NotebookApp] Saving file at /Data Collection.ipynb
+[W 00:29:20.700 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 00:30:28.858 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:32:28.804 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:34:28.885 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:36:29.180 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:38:28.972 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:40:29.025 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:42:29.218 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:44:29.863 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:46:26.150 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:46:29.267 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:48:26.249 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:48:29.394 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:50:26.158 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:50:29.913 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:52:25.926 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:54:26.130 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:54:29.349 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:56:25.990 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:58:25.886 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:59:07.198 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:9946f4b414ec4d718b59bc86e35b630a
+[I 00:59:07.199 NotebookApp] Starting buffering for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:67daff637e7a4d2c8e73a80420be629b
+[I 00:59:07.199 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:61794554ae464397be5962da2e28d063
+[I 07:58:21.806 NotebookApp] The port 8888 is already in use, trying another port.
+[I 07:58:21.806 NotebookApp] The port 8889 is already in use, trying another port.
+[I 07:58:21.807 NotebookApp] The port 8890 is already in use, trying another port.
+[I 07:58:21.807 NotebookApp] The port 8891 is already in use, trying another port.
+[I 07:58:21.811 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 07:58:21.811 NotebookApp] The Jupyter Notebook is running at:
+[I 07:58:21.811 NotebookApp] http://ubuntu:8892/
+[I 07:58:21.811 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 07:58:21.814 NotebookApp] No web browser found: could not locate runnable browser.
+[W 07:58:44.051 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 08:00:07.550 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:1255f7b6d7754ae48b73b73ec0b02ba6
+[I 08:00:08.859 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 08:00:09.728 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:1255f7b6d7754ae48b73b73ec0b02ba6
+[I 08:00:09.728 NotebookApp] Replaying 6 buffered messages
+[I 08:01:08.827 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 08:03:09.164 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 08:05:06.935 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 08:07:07.451 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 08:09:07.111 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 08:10:28.150 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 08:10:29.307 NotebookApp] iopub messages resumed
+[W 08:10:35.056 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 08:10:35.756 NotebookApp] iopub messages resumed
+[W 08:12:09.730 NotebookApp] WebSocket ping timeout after 119607 ms.
+[I 08:12:14.732 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:1255f7b6d7754ae48b73b73ec0b02ba6
+[W 08:12:16.091 NotebookApp] WebSocket ping timeout after 119895 ms.
+[I 08:12:21.093 NotebookApp] Starting buffering for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:8e4e6b5a036b416a876dc8b5888bdb8a
+[W 08:12:25.243 NotebookApp] WebSocket ping timeout after 119711 ms.
+[I 08:12:30.245 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:b1aef768623944af867f620f62a1bb1f
+[I 08:17:22.355 NotebookApp] The port 8888 is already in use, trying another port.
+[I 08:17:22.356 NotebookApp] The port 8889 is already in use, trying another port.
+[I 08:17:22.356 NotebookApp] The port 8890 is already in use, trying another port.
+[I 08:17:22.356 NotebookApp] The port 8891 is already in use, trying another port.
+[I 08:17:22.356 NotebookApp] The port 8892 is already in use, trying another port.
+[I 08:17:22.360 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 08:17:22.360 NotebookApp] The Jupyter Notebook is running at:
+[I 08:17:22.360 NotebookApp] http://ubuntu:8832/
+[I 08:17:22.360 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 08:17:22.363 NotebookApp] No web browser found: could not locate runnable browser.
+[I 08:18:03.073 NotebookApp] Restoring connection for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:8e4e6b5a036b416a876dc8b5888bdb8a
+[I 08:18:03.642 NotebookApp] Restoring connection for b4a076ae-7a48-4a5b-8e41-fc09af617e07:b1aef768623944af867f620f62a1bb1f
+[I 08:20:10.686 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 08:22:10.188 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 08:24:11.128 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 08:26:11.852 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 08:27:46.186 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 08:27:48.478 NotebookApp] iopub messages resumed
+[W 08:27:49.324 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 08:27:51.627 NotebookApp] iopub messages resumed
+[W 08:27:52.669 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 08:27:54.976 NotebookApp] iopub messages resumed
+[W 08:27:56.010 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 08:27:58.304 NotebookApp] iopub messages resumed
+[W 08:27:59.347 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 08:28:00.564 NotebookApp] Kernel interrupted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[W 08:29:33.073 NotebookApp] WebSocket ping timeout after 119890 ms.
+[W 08:29:33.644 NotebookApp] WebSocket ping timeout after 119902 ms.
+[I 08:29:38.076 NotebookApp] Starting buffering for 9d6787c4-e645-4c7d-a5e5-02fe2b091c55:8e4e6b5a036b416a876dc8b5888bdb8a
+[I 08:29:38.645 NotebookApp] Starting buffering for b4a076ae-7a48-4a5b-8e41-fc09af617e07:b1aef768623944af867f620f62a1bb1f
+[W 08:29:40.733 NotebookApp] WebSocket ping timeout after 119644 ms.
+[I 08:29:45.735 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:108f6dd3d9ac48778e23574d057d956f
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 20:14:21.930 NotebookApp] The port 8888 is already in use, trying another port.
+[I 20:14:21.930 NotebookApp] The port 8889 is already in use, trying another port.
+[I 20:14:21.930 NotebookApp] The port 8890 is already in use, trying another port.
+[I 20:14:21.930 NotebookApp] The port 8891 is already in use, trying another port.
+[I 20:14:21.930 NotebookApp] The port 8892 is already in use, trying another port.
+[I 20:14:21.934 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 20:14:21.934 NotebookApp] The Jupyter Notebook is running at:
+[I 20:14:21.934 NotebookApp] http://ubuntu:8834/
+[I 20:14:21.934 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 20:14:21.938 NotebookApp] No web browser found: could not locate runnable browser.
+[I 20:14:38.429 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:15:04.353 NotebookApp] Kernel shutdown: 9d6787c4-e645-4c7d-a5e5-02fe2b091c55
+[I 20:15:08.864 NotebookApp] Kernel shutdown: b4a076ae-7a48-4a5b-8e41-fc09af617e07
+[I 20:16:49.462 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:16:50.771 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:16:51.597 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:16:51.597 NotebookApp] Replaying 6 buffered messages
+[I 20:18:30.316 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 20:20:05.946 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:08.233 NotebookApp] iopub messages resumed
+[W 20:20:09.285 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:11.563 NotebookApp] iopub messages resumed
+[W 20:20:12.610 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:14.899 NotebookApp] iopub messages resumed
+[W 20:20:15.943 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:18.227 NotebookApp] iopub messages resumed
+[W 20:20:19.273 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:21.568 NotebookApp] iopub messages resumed
+[W 20:20:22.610 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:24.898 NotebookApp] iopub messages resumed
+[W 20:20:25.942 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:28.218 NotebookApp] iopub messages resumed
+[W 20:20:29.265 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:31.555 NotebookApp] iopub messages resumed
+[W 20:20:32.595 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:34.903 NotebookApp] iopub messages resumed
+[W 20:20:35.941 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:38.231 NotebookApp] iopub messages resumed
+[W 20:20:39.280 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:41.567 NotebookApp] iopub messages resumed
+[W 20:20:42.606 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 20:20:44.888 NotebookApp] iopub messages resumed
+[W 20:20:45.928 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 20:20:47.073 NotebookApp] Kernel interrupted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:20:47.074 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:21:18.078 NotebookApp] Kernel interrupted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[W 20:21:51.597 NotebookApp] WebSocket ping timeout after 119930 ms.
+[I 20:21:52.078 NotebookApp] Kernel interrupted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:21:56.602 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/lib/python3.5/dist-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+  File "/usr/lib/python3.5/asyncio/futures.py", line 361, in __iter__
+    yield self  # This tells Task to wait for completion.
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 296, in _wakeup
+    future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/tasks.py", line 241, in _step
+    result = coro.throw(exc)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 20:22:08.412 NotebookApp] Kernel interrupted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:22:19.640 NotebookApp] Kernel interrupted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:22:20.189 NotebookApp] Kernel interrupted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:22:38.564 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:22:53.971 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:22:53.971 NotebookApp] Replaying 6 buffered messages
+[I 20:25:03.754 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:28:59.864 NotebookApp] Kernel interrupted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:29:13.461 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:33:23.470 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:37:34.377 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:41:44.952 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:45:53.740 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:46:25.873 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:46:27.286 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:46:27.840 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:46:27.841 NotebookApp] Replaying 3 buffered messages
+[I 20:49:53.589 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:49:54.199 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:49:54.776 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:49:54.776 NotebookApp] Replaying 6 buffered messages
+[I 20:50:03.735 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:52:49.431 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:52:50.440 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:52:51.009 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 20:52:51.010 NotebookApp] Replaying 6 buffered messages
+[I 20:54:13.647 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 20:55:26.659 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 20:55:27.120 NotebookApp] Kernel started: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 20:57:27.543 NotebookApp] Saving file at /Create Model.ipynb
+[W 20:57:27.545 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 20:58:30.666 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 21:02:33.867 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 21:05:27.460 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:05:27.461 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:07:15.963 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:07:15.964 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:07:27.280 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:07:27.280 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:09:27.540 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:09:27.541 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:11:27.307 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:11:27.307 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:13:27.271 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:13:27.271 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:15:27.642 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:15:27.643 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:17:27.846 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:17:27.847 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:19:27.384 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:19:27.384 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:21:27.318 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:21:27.319 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:23:27.323 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:23:27.323 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:25:27.562 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:25:27.563 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:27:27.535 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:27:27.536 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:29:27.327 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:29:27.327 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:31:27.402 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:31:27.402 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:39:27.707 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:39:27.708 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:41:27.669 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:41:27.670 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:43:27.565 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:43:27.566 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:45:28.169 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:45:28.169 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:47:28.149 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:47:28.150 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:49:27.358 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:49:27.358 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:51:27.735 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:51:27.736 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:53:28.848 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:53:28.849 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:55:27.306 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:55:27.307 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:57:27.429 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:57:27.429 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 21:59:27.316 NotebookApp] Saving file at /Create Model.ipynb
+[W 21:59:27.316 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:01:27.424 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:01:27.425 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:03:27.288 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:03:27.288 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:05:28.508 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:05:28.509 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:07:27.353 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:07:27.354 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:09:27.713 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:09:27.714 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:11:27.340 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:11:27.341 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:13:27.304 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:13:27.305 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:15:27.678 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:15:27.678 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:19:27.346 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:19:27.346 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:21:27.308 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:21:27.308 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:23:27.436 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:23:27.436 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:41:27.489 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:41:27.490 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:42:34.708 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 22:47:27.334 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:47:27.335 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:49:27.427 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:49:27.428 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:51:27.304 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:51:27.305 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:53:27.358 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:53:27.359 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:55:30.006 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:55:30.006 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:57:27.312 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:57:27.313 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 22:59:27.350 NotebookApp] Saving file at /Create Model.ipynb
+[W 22:59:27.350 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 23:01:27.309 NotebookApp] Saving file at /Create Model.ipynb
+[W 23:01:27.310 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 23:03:27.322 NotebookApp] Saving file at /Create Model.ipynb
+[W 23:03:27.322 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 23:05:27.267 NotebookApp] Saving file at /Create Model.ipynb
+[W 23:05:27.268 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 23:07:27.613 NotebookApp] Saving file at /Create Model.ipynb
+[W 23:07:27.613 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 23:09:27.332 NotebookApp] Saving file at /Create Model.ipynb
+[W 23:09:27.333 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 23:11:27.227 NotebookApp] Saving file at /Create Model.ipynb
+[W 23:11:27.228 NotebookApp] Notebook Create Model.ipynb is not trusted
+[I 23:13:22.773 NotebookApp] Kernel started: 73024647-0ceb-465a-89af-5fc4ce33a0f8
+[I 23:13:27.385 NotebookApp] Saving file at /Create Model.ipynb
+[W 23:14:26.129 NotebookApp] delete /preprocessing_functions.py
+[W 23:14:26.132 NotebookApp] delete /predict_function.py
+[W 23:14:26.133 NotebookApp] delete /posts2.npy
+[W 23:14:26.134 NotebookApp] delete /datacollection.py
+[W 23:14:26.135 NotebookApp] delete /posts.npy
+[W 23:14:26.137 NotebookApp] delete /test.npy
+[W 23:14:26.144 NotebookApp] delete /testing_data.csv
+[W 23:14:26.149 NotebookApp] delete /testing_data.npy
+[W 23:14:26.150 NotebookApp] delete /train.npy
+[W 23:14:26.152 NotebookApp] delete /training_data.npy
+[W 23:14:57.274 NotebookApp] delete /fast_text_model.pkl
+[I 23:15:24.548 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 23:15:25.965 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 23:15:26.497 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 23:15:26.497 NotebookApp] Replaying 6 buffered messages
+[I 23:15:45.508 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 23:15:45.920 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 23:15:46.471 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 23:15:46.471 NotebookApp] Replaying 3 buffered messages
+[I 23:15:53.435 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 23:16:20.535 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 23:16:21.048 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 23:16:21.594 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 23:16:21.595 NotebookApp] Replaying 3 buffered messages
+[I 23:17:45.792 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:d629a6023cf842cc994233a3636728a9
+[I 23:17:48.005 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 23:17:48.641 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:d629a6023cf842cc994233a3636728a9
+[I 23:17:48.641 NotebookApp] Replaying 6 buffered messages
+[I 23:17:57.879 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:d629a6023cf842cc994233a3636728a9
+[I 23:17:58.287 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 23:17:58.879 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:d629a6023cf842cc994233a3636728a9
+[I 23:17:58.879 NotebookApp] Replaying 3 buffered messages
+[I 23:19:27.343 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:20:04.373 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 23:21:27.578 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:22:44.537 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:d629a6023cf842cc994233a3636728a9
+[I 23:22:44.947 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 23:22:45.594 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:d629a6023cf842cc994233a3636728a9
+[I 23:22:45.594 NotebookApp] Replaying 5 buffered messages
+[I 23:23:27.811 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:25:20.230 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:f8a8d68e9da445fe8cc70df598c10170
+[I 23:25:20.230 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:d629a6023cf842cc994233a3636728a9
+[I 23:25:20.230 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:cd18860b8b56400c9bc64da1e23bb8ce
+[I 00:40:31.555 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:42:31.481 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:44:31.467 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:46:31.548 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:48:06.555 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:49:06.916 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:49:37.293 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:65842d5d027c494a82169664c6d6ca20
+[I 00:49:37.907 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 00:49:38.457 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:65842d5d027c494a82169664c6d6ca20
+[I 00:49:38.457 NotebookApp] Replaying 6 buffered messages
+[I 00:50:51.424 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 00:50:51.833 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 00:50:52.488 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 00:50:52.488 NotebookApp] Replaying 6 buffered messages
+[I 00:51:06.686 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:52:31.726 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:53:06.710 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:55:00.079 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:65842d5d027c494a82169664c6d6ca20
+[I 00:55:00.692 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 00:55:01.447 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:65842d5d027c494a82169664c6d6ca20
+[I 00:55:01.447 NotebookApp] Replaying 6 buffered messages
+[I 00:55:06.713 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:55:36.523 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 00:55:36.932 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 00:55:37.592 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 00:55:37.592 NotebookApp] Replaying 6 buffered messages
+[I 00:56:10.853 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 00:56:11.311 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 00:56:11.846 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 00:56:11.846 NotebookApp] Replaying 3 buffered messages
+[I 00:56:31.643 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:57:07.852 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:58:31.424 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:59:51.467 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 00:59:51.876 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 00:59:52.531 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 00:59:52.531 NotebookApp] Replaying 3 buffered messages
+[I 01:00:31.401 NotebookApp] Saving file at /Create Model.ipynb
+[I 01:01:06.690 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:02:31.550 NotebookApp] Saving file at /Create Model.ipynb
+[I 01:03:06.730 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:05:09.221 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:05:28.291 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:65842d5d027c494a82169664c6d6ca20
+[I 01:05:29.202 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 01:05:29.780 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:65842d5d027c494a82169664c6d6ca20
+[I 01:05:29.780 NotebookApp] Replaying 6 buffered messages
+[I 01:07:06.673 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:09:06.713 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:11:06.861 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:13:00.135 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:65842d5d027c494a82169664c6d6ca20
+[I 01:13:00.135 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:7806b324cfa940ad99fbb5c5bf746009
+[I 01:13:00.136 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:db1a23a8c6a949208306337a0a47e2c6
+[I 00:28:37.163 NotebookApp] 302 GET / (127.0.0.1) 0.97ms
+[I 00:29:20.401 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:9c8b75206f1b4dd4916dcd7971cb8ab7
+[I 00:29:21.313 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 00:29:21.897 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:9c8b75206f1b4dd4916dcd7971cb8ab7
+[I 00:29:21.897 NotebookApp] Replaying 6 buffered messages
+[I 00:31:06.275 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:37:06.399 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:39:06.434 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:41:06.738 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:43:06.378 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:45:06.458 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:46:05.256 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:9c8b75206f1b4dd4916dcd7971cb8ab7
+[I 00:46:06.271 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 00:46:06.951 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:9c8b75206f1b4dd4916dcd7971cb8ab7
+[I 00:46:06.951 NotebookApp] Replaying 6 buffered messages
+[I 00:47:06.325 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:49:06.398 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:51:06.393 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:53:06.571 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:55:06.359 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:57:06.412 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:58:03.484 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:279ec78e5b3143f096d0793989490fa0
+[I 00:58:03.896 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 00:58:04.474 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:279ec78e5b3143f096d0793989490fa0
+[I 00:58:04.475 NotebookApp] Replaying 6 buffered messages
+[I 00:58:51.000 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:59:06.779 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:00:47.322 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:279ec78e5b3143f096d0793989490fa0
+[I 01:00:47.339 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:9c8b75206f1b4dd4916dcd7971cb8ab7
+[I 01:00:47.349 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:1939c04a8ec441f6866cc8e219b9073e
+[I 22:56:42.466 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 22:56:43.377 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 22:56:43.915 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 22:56:43.915 NotebookApp] Replaying 6 buffered messages
+[I 22:58:38.650 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 23:00:38.692 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 23:02:38.484 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 23:04:38.527 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 23:06:38.510 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 23:08:38.766 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 23:09:21.300 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:11:21.225 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:13:21.300 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:15:21.285 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:17:22.164 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:19:21.510 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:23:21.241 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:5b6b3973dd814f179ec17c827e0d811e
+[I 23:23:21.652 NotebookApp] Kernel restarted: 73024647-0ceb-465a-89af-5fc4ce33a0f8
+[I 23:23:22.189 NotebookApp] Restoring connection for 73024647-0ceb-465a-89af-5fc4ce33a0f8:5b6b3973dd814f179ec17c827e0d811e
+[I 23:23:22.189 NotebookApp] Replaying 3 buffered messages
+[I 23:23:23.332 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:25:23.059 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:29:29.922 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:51:25.282 NotebookApp] Saving file at /Data Collection.ipynb
+[I 23:59:23.803 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:05:23.576 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:13:23.203 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:21:30.207 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:29:24.610 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:33:23.674 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:39:24.570 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:49:24.022 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:54:10.140 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 00:54:10.751 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 00:54:11.283 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 00:54:11.283 NotebookApp] Replaying 3 buffered messages
+[I 00:54:38.453 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 00:54:48.949 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:f0ce65a00dd54504875bf7396e4e0e2c
+[I 00:54:50.562 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 00:54:51.353 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:f0ce65a00dd54504875bf7396e4e0e2c
+[I 00:54:51.353 NotebookApp] Replaying 3 buffered messages
+[I 00:55:21.483 NotebookApp] Saving file at /Create Model.ipynb
+[I 00:55:23.499 NotebookApp] Saving file at /Data Collection.ipynb
+[I 00:56:39.824 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:17:25.715 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 01:17:26.724 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 01:17:27.816 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 01:17:27.816 NotebookApp] Replaying 3 buffered messages
+[I 01:18:42.887 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:22:43.128 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:32:44.396 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:34:38.681 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:36:40.479 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:37:26.082 NotebookApp] Saving file at /Create Model.ipynb
+[I 01:39:22.324 NotebookApp] Saving file at /Create Model.ipynb
+[I 01:41:29.780 NotebookApp] Saving file at /Create Model.ipynb
+[I 01:43:59.449 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 01:44:01.259 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 01:44:08.647 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 01:44:08.647 NotebookApp] Replaying 6 buffered messages
+[I 01:44:36.344 NotebookApp] Writing 91448 bytes to ./notebook.tex
+[I 01:44:36.344 NotebookApp] Building PDF
+[E 01:44:36.360 NotebookApp] nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/dist-packages/notebook/nbconvert/handlers.py", line 130, in get
+        resources=resource_dict
+      File "/usr/local/lib/python3.5/dist-packages/nbconvert/exporters/pdf.py", line 185, in from_notebook_node
+        self.run_latex(tex_file)
+      File "/usr/local/lib/python3.5/dist-packages/nbconvert/exporters/pdf.py", line 156, in run_latex
+        self.latex_count, log_error, raise_on_failure)
+      File "/usr/local/lib/python3.5/dist-packages/nbconvert/exporters/pdf.py", line 114, in run_command
+        "at {link}.".format(formatter=command_list[0], link=link))
+    OSError: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+[W 01:44:36.370 NotebookApp] 500 GET /nbconvert/pdf/Create%20Model.ipynb?download=true (127.0.0.1): nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.
+[E 01:44:36.376 NotebookApp] {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+      "Upgrade-Insecure-Requests": "1",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+      "Accept-Language": "en-US,en;q=0.9,hi-IN;q=0.8,hi;q=0.7",
+      "Cookie": "_xsrf=2|49483114|b678ccce319a68e2b68c91f16d36ae0d|1575651559; username-localhost-8080=\"2|1:0|10:1575651594|23:username-localhost-8080|44:MzFhMjlmMzc3YmRhNDliOTg4NzVlMGJmZGNiNjdjMjg=|47283c2f66c198aca2838aa6ed1542f76a58e3ca5f658a992ded9a8b07fff2ec\"; username-localhost-8088=\"2|1:0|10:1575656590|23:username-localhost-8088|44:NTQxYjg4OGE0Y2IyNGM5NWIzM2M0NzgzODljYmEwNWQ=|c7ead5b6b0ba51b6f23d02c505fcaa9736aaf044fae1fd69e5383b953381afd4\"; username-localhost-8888=\"2|1:0|10:1575740831|23:username-localhost-8888|44:Nzk5NmQwZTllNzIwNGNkY2I4MmNhZTBmNTlmZWNlMGY=|21e4571bed6a37379c37e87dbb970d7021452402962f1a1c9a02db0a2dff7473\"",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "http://localhost:8888/notebooks/Create%20Model.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Connection": "keep-alive",
+      "Host": "localhost:8888"
+    }
+[E 01:44:36.376 NotebookApp] 500 GET /nbconvert/pdf/Create%20Model.ipynb?download=true (127.0.0.1) 596.85ms referer=http://localhost:8888/notebooks/Create%20Model.ipynb
+[I 01:44:40.142 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 01:46:16.942 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1): No such file or directory: custom.css
+[W 01:46:16.945 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1) 13.62ms referer=None
+[W 01:46:34.592 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1): No such file or directory: custom.css
+[W 01:46:34.593 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1) 11.91ms referer=None
+[I 01:47:02.906 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:f0ce65a00dd54504875bf7396e4e0e2c
+[I 01:47:03.336 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 01:47:03.889 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:f0ce65a00dd54504875bf7396e4e0e2c
+[I 01:47:03.890 NotebookApp] Replaying 3 buffered messages
+[I 01:47:25.084 NotebookApp] Saving file at /Create Model.ipynb
+[W 01:48:09.609 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1): No such file or directory: custom.css
+[W 01:48:09.610 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1) 11.60ms referer=None
+[I 01:50:18.679 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 01:50:19.291 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 01:50:20.083 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 01:50:20.083 NotebookApp] Replaying 6 buffered messages
+[I 01:50:38.706 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:51:46.461 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 01:51:46.993 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 01:51:48.040 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 01:51:48.040 NotebookApp] Replaying 3 buffered messages
+[I 01:52:38.655 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 01:53:01.126 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:f0ce65a00dd54504875bf7396e4e0e2c
+[I 01:53:01.538 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 01:53:02.070 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:f0ce65a00dd54504875bf7396e4e0e2c
+[I 01:53:02.070 NotebookApp] Replaying 6 buffered messages
+[I 01:53:21.737 NotebookApp] Saving file at /Create Model.ipynb
+[W 01:53:42.084 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1): No such file or directory: custom.css
+[W 01:53:42.085 NotebookApp] 404 GET /nbconvert/html/custom.css (127.0.0.1) 11.37ms referer=None
+[I 02:25:27.007 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:318f91833ad94a8183eebefeb1c8f2bb
+[I 02:25:27.009 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:f0ce65a00dd54504875bf7396e4e0e2c
+[I 02:25:27.009 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:5b6b3973dd814f179ec17c827e0d811e
+[I 02:02:41.393 NotebookApp] Saving file at /Data Collection.ipynb
+[I 02:06:41.384 NotebookApp] Saving file at /Data Collection.ipynb
+[I 02:10:40.614 NotebookApp] Saving file at /Data Collection.ipynb
+[I 02:12:34.415 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:12:40.581 NotebookApp] Saving file at /Data Collection.ipynb
+[I 02:14:34.031 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:16:34.046 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:18:34.375 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:20:34.162 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:22:34.126 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:24:36.304 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:26:34.170 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:26:41.698 NotebookApp] Saving file at /Data Collection.ipynb
+[I 02:28:34.173 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:30:06.196 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 02:30:08.407 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 02:30:08.604 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:30:09.046 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 02:30:09.047 NotebookApp] Replaying 6 buffered messages
+[I 02:30:34.005 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:30:41.394 NotebookApp] Saving file at /Data Collection.ipynb
+[I 02:31:01.861 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 02:31:02.269 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 02:31:02.815 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 02:31:02.815 NotebookApp] Replaying 6 buffered messages
+[I 02:32:06.367 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:32:36.098 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:33:09.900 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 02:33:10.709 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 02:33:11.323 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 02:33:11.323 NotebookApp] Replaying 6 buffered messages
+[I 02:33:59.656 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 02:34:00.066 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 02:34:00.678 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 02:34:00.678 NotebookApp] Replaying 6 buffered messages
+[I 02:34:06.158 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:34:34.383 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 02:36:06.383 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:38:06.169 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:40:06.149 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:42:06.111 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:44:06.445 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:46:06.131 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:48:06.106 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:50:06.101 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:52:06.095 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:54:06.099 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:54:08.115 NotebookApp] Kernel interrupted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 02:54:47.071 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 02:54:48.382 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 02:54:48.941 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 02:54:48.941 NotebookApp] Replaying 6 buffered messages
+[I 02:56:06.220 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:58:06.118 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:59:50.417 NotebookApp] Saving file at /Create Model.ipynb
+[I 03:00:06.098 NotebookApp] Saving file at /Create Model.ipynb
+[I 03:00:40.156 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 03:00:41.267 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 03:00:41.815 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 03:00:41.816 NotebookApp] Replaying 6 buffered messages
+[I 03:01:25.983 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 03:01:26.394 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 03:01:27.085 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 03:01:27.085 NotebookApp] Replaying 5 buffered messages
+[I 03:02:06.143 NotebookApp] Saving file at /Create Model.ipynb
+[I 03:04:06.334 NotebookApp] Saving file at /Create Model.ipynb
+[I 03:04:20.211 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 03:04:20.820 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 03:04:21.458 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 03:04:21.458 NotebookApp] Replaying 3 buffered messages
+[I 03:04:34.021 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:06:34.115 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:08:34.021 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:09:06.209 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 03:09:06.820 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 03:09:07.353 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 03:09:07.353 NotebookApp] Replaying 6 buffered messages
+[I 03:10:25.035 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 03:10:25.445 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 03:10:26.112 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 03:10:26.112 NotebookApp] Replaying 6 buffered messages
+[I 03:10:34.347 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:12:06.128 NotebookApp] Saving file at /Create Model.ipynb
+[I 03:12:30.019 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:4cb63358013b4ffb8f3e8801366edded
+[I 03:12:30.019 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:21a9fa4b5b5d484f8b13921d3d7a5162
+[I 03:12:30.019 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:dd381e3d6561454b8166d437d77e0181
+[I 16:24:42.488 NotebookApp] 302 GET / (127.0.0.1) 1.21ms
+[I 16:26:46.963 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:28:46.891 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:30:46.967 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:32:46.897 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:34:46.942 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:36:46.865 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:38:46.819 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:40:46.828 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:42:06.785 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:f2476cae5fdb43d88b0bfb21c6c9e41c
+[I 16:42:09.798 NotebookApp] Kernel restarted: 73024647-0ceb-465a-89af-5fc4ce33a0f8
+[I 16:42:10.374 NotebookApp] Restoring connection for 73024647-0ceb-465a-89af-5fc4ce33a0f8:f2476cae5fdb43d88b0bfb21c6c9e41c
+[I 16:42:10.375 NotebookApp] Replaying 6 buffered messages
+[I 16:42:46.981 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:44:48.740 NotebookApp] Saving file at /Data Collection.ipynb
+[I 16:45:31.866 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 16:47:31.858 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 16:49:32.247 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 16:51:32.638 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 17:07:33.105 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 17:09:31.943 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 17:11:31.986 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 17:12:06.498 NotebookApp] Saving file at /Create Model.ipynb
+[I 17:14:05.933 NotebookApp] Saving file at /Create Model.ipynb
+[I 17:15:31.927 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 17:17:00.310 NotebookApp] Notebook Predict Flair.ipynb is not trusted
+[I 17:17:00.589 NotebookApp] Kernel started: e4b2a43d-c8e1-4834-b683-20744c019e5a
+[I 17:17:32.020 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 17:18:05.921 NotebookApp] Saving file at /Create Model.ipynb
+[I 17:19:01.373 NotebookApp] Saving file at /Predict Flair.ipynb
+[W 17:19:01.373 NotebookApp] Notebook Predict Flair.ipynb is not trusted
+[I 17:59:23.536 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:f2476cae5fdb43d88b0bfb21c6c9e41c
+[I 17:59:23.537 NotebookApp] Starting buffering for e4b2a43d-c8e1-4834-b683-20744c019e5a:a20005e92d2e4664abb686fd320a7ecd
+[I 17:59:23.539 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 17:59:23.539 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 18:06:40.658 NotebookApp] Discarding 18 buffered messages for 73024647-0ceb-465a-89af-5fc4ce33a0f8:f2476cae5fdb43d88b0bfb21c6c9e41c
+[I 18:06:43.770 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:06:43.847 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 18:06:44.688 NotebookApp] Restoring connection for e4b2a43d-c8e1-4834-b683-20744c019e5a:a20005e92d2e4664abb686fd320a7ecd
+[I 18:07:44.987 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:07:45.710 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 18:07:46.355 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:07:46.355 NotebookApp] Replaying 3 buffered messages
+[I 18:08:37.739 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:09:20.711 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:10:38.739 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:11:20.991 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:12:24.518 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:12:25.834 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 18:12:26.408 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:12:26.408 NotebookApp] Replaying 6 buffered messages
+[I 18:13:20.716 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:15:20.669 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:17:20.715 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:17:59.981 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:18:00.691 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 18:18:01.257 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:18:01.257 NotebookApp] Replaying 6 buffered messages
+[I 18:19:09.881 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:19:10.494 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 18:19:11.080 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:19:11.080 NotebookApp] Replaying 6 buffered messages
+[I 18:19:20.715 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:21:20.814 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:21:53.089 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 18:21:53.906 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 18:21:53.985 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:21:54.521 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 18:21:54.521 NotebookApp] Replaying 6 buffered messages
+[I 18:23:20.713 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:23:53.975 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:25:54.698 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:26:37.736 NotebookApp] Saving file at /Data Collection.ipynb
+[I 18:27:20.653 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:29:20.646 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:30:57.483 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:31:02.526 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 18:31:03.313 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:31:20.650 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:33:20.674 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:33:51.104 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:33:51.714 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 18:33:52.460 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 18:33:52.460 NotebookApp] Replaying 3 buffered messages
+[I 18:35:20.660 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:37:21.272 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:39:20.707 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:39:53.996 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:41:53.983 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:43:54.000 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:45:53.984 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:47:57.179 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:49:53.969 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:50:50.948 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 18:50:51.966 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 18:50:52.580 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 18:50:52.580 NotebookApp] Replaying 6 buffered messages
+[I 18:51:54.715 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:53:54.706 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:57:20.731 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 18:57:53.970 NotebookApp] Saving file at /Create Model.ipynb
+[I 18:59:54.717 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:01:10.652 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 19:01:11.666 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 19:01:12.287 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 19:01:12.287 NotebookApp] Replaying 6 buffered messages
+[I 19:01:20.674 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 19:03:20.669 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 19:05:34.661 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:05:35.271 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 19:05:35.879 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:05:35.880 NotebookApp] Replaying 6 buffered messages
+[I 19:05:53.968 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:06:26.817 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:06:27.227 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 19:06:27.752 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:06:27.752 NotebookApp] Replaying 3 buffered messages
+[I 19:07:53.974 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:09:54.120 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:19:54.167 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:20:56.493 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 19:20:57.205 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 19:20:57.801 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 19:20:57.801 NotebookApp] Replaying 6 buffered messages
+[I 19:21:20.653 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 19:21:55.496 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:22:58.048 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:22:58.657 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 19:22:59.225 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:22:59.225 NotebookApp] Replaying 6 buffered messages
+[I 19:23:21.039 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 19:23:54.005 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:25:54.112 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:25:59.230 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:25:59.640 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 19:26:00.364 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:26:00.364 NotebookApp] Replaying 5 buffered messages
+[I 19:26:55.919 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:26:56.628 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 19:26:57.167 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:26:57.167 NotebookApp] Replaying 6 buffered messages
+[I 19:27:55.196 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:29:57.421 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:31:54.095 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:32:23.999 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:32:24.710 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 19:32:25.246 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 19:32:25.246 NotebookApp] Replaying 6 buffered messages
+[I 19:33:53.980 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:35:54.387 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:49:02.606 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 19:49:03.916 NotebookApp] Kernel restarted: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 19:49:04.513 NotebookApp] Restoring connection for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 19:49:04.513 NotebookApp] Replaying 3 buffered messages
+[I 19:49:20.760 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 19:51:37.984 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:15:11.054 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 20:15:11.890 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 20:15:12.574 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 20:15:12.574 NotebookApp] Replaying 3 buffered messages
+[I 20:15:55.378 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:17:54.209 NotebookApp] Saving file at /Create Model.ipynb
+[W 20:18:42.509 NotebookApp] delete /word2vec.pkl
+[W 20:19:22.802 NotebookApp] delete /posts3.npy
+[W 20:19:22.803 NotebookApp] delete /fast_text_model.pkl
+[W 20:19:22.804 NotebookApp] delete /collected_data.csv
+[I 20:19:54.454 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:23:27.173 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 20:23:54.449 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:25:46.756 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 20:25:47.665 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 20:25:48.205 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 20:25:48.206 NotebookApp] Replaying 3 buffered messages
+[I 20:25:53.978 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:27:53.994 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:29:55.596 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:35:54.330 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:37:57.925 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:49:54.006 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:50:06.996 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel c0855e2f-b86e-45fd-bc74-740c5a274984 restarted
+[I 20:50:34.488 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 20:50:34.907 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 20:50:35.576 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 20:50:35.576 NotebookApp] Replaying 3 buffered messages
+[I 20:50:42.432 NotebookApp] Starting buffering for b44a4192-9da0-4b5d-949c-1f7551d7cf17:75c5c65ac42d4f94812aea33cb855a20
+[I 20:50:44.252 NotebookApp] Kernel shutdown: b44a4192-9da0-4b5d-949c-1f7551d7cf17
+[I 20:50:46.071 NotebookApp] Starting buffering for 73024647-0ceb-465a-89af-5fc4ce33a0f8:dbbb133d4ff44b3c90c3b0cb0a6cfc49
+[I 20:50:51.185 NotebookApp] Kernel shutdown: 73024647-0ceb-465a-89af-5fc4ce33a0f8
+[I 20:50:58.018 NotebookApp] Starting buffering for e4b2a43d-c8e1-4834-b683-20744c019e5a:a20005e92d2e4664abb686fd320a7ecd
+[I 20:50:58.635 NotebookApp] Kernel shutdown: e4b2a43d-c8e1-4834-b683-20744c019e5a
+[I 20:51:54.045 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:53:53.994 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:55:54.069 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:56:06.477 NotebookApp] Kernel interrupted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 20:56:14.341 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 20:56:19.420 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 20:56:21.449 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 20:56:21.449 NotebookApp] Replaying 6 buffered messages
+[I 20:57:53.990 NotebookApp] Saving file at /Create Model.ipynb
+[I 20:59:55.833 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:01:53.984 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:03:56.490 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:09:55.909 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:11:54.006 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:13:54.011 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:15:54.064 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:17:53.999 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:19:22.702 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 21:19:27.729 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 21:19:28.288 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 21:19:28.288 NotebookApp] Replaying 7 buffered messages
+[I 21:19:54.042 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:21:54.001 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:22:37.587 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 21:22:42.614 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 21:22:43.268 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 21:23:54.168 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:25:54.001 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:35:54.014 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:37:56.456 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:39:54.042 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:41:54.034 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:43:34.158 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 21:43:39.185 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 21:43:39.782 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 21:43:39.782 NotebookApp] Replaying 4 buffered messages
+[I 21:43:53.995 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:45:55.613 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:47:54.006 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:49:54.008 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:51:53.990 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:53:54.005 NotebookApp] Saving file at /Create Model.ipynb
+[I 21:59:54.027 NotebookApp] Saving file at /Create Model.ipynb
+[I 22:01:54.859 NotebookApp] Saving file at /Create Model.ipynb
+[I 22:05:29.551 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 22:05:30.561 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 22:05:31.099 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 22:05:31.099 NotebookApp] Replaying 6 buffered messages
+[I 22:05:54.075 NotebookApp] Saving file at /Create Model.ipynb
+[I 22:06:09.562 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel c0855e2f-b86e-45fd-bc74-740c5a274984 restarted
+[I 22:07:54.106 NotebookApp] Saving file at /Create Model.ipynb
+[I 22:08:21.644 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel c0855e2f-b86e-45fd-bc74-740c5a274984 restarted
+[I 22:09:57.651 NotebookApp] Saving file at /Create Model.ipynb
+[I 22:18:44.413 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 22:18:44.754 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 22:18:45.300 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 22:18:45.300 NotebookApp] Replaying 6 buffered messages
+[I 22:19:55.481 NotebookApp] Saving file at /Create Model.ipynb
+[I 22:21:32.107 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 22:21:38.316 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 22:21:41.135 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 22:21:41.136 NotebookApp] Replaying 6 buffered messages
+[I 22:21:45.272 NotebookApp] Starting buffering for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 22:21:45.582 NotebookApp] Kernel restarted: c0855e2f-b86e-45fd-bc74-740c5a274984
+[I 22:21:46.262 NotebookApp] Restoring connection for c0855e2f-b86e-45fd-bc74-740c5a274984:edc34fb034e4476b8d6c5fc2753b4ad1
+[I 22:21:46.262 NotebookApp] Replaying 6 buffered messages
+[I 22:21:53.995 NotebookApp] Saving file at /Create Model.ipynb
+[I 22:23:54.764 NotebookApp] Saving file at /Create Model.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 23:16:08.926 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 23:16:08.926 NotebookApp] The Jupyter Notebook is running at:
+[I 23:16:08.926 NotebookApp] http://ubuntu:8888/
+[I 23:16:08.926 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:16:08.932 NotebookApp] No web browser found: could not locate runnable browser.
+[I 23:17:46.855 NotebookApp] Kernel started: b78938eb-fd8a-4c13-b0ce-da7dcad0cb75
+[I 23:19:49.772 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:21:01.641 NotebookApp] Starting buffering for b78938eb-fd8a-4c13-b0ce-da7dcad0cb75:25f5c28b1d364c31a430f776e9d17884
+[I 23:21:07.465 NotebookApp] Kernel shutdown: b78938eb-fd8a-4c13-b0ce-da7dcad0cb75
+[E 23:21:18.295 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.5/dist-packages/notebook/services/kernels/handlers.py", line 83, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python3.5/dist-packages/tornado/gen.py", line 735, in run
+        value = future.result()
+      File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+        raise self._exception
+      File "/usr/local/lib/python3.5/dist-packages/tornado/gen.py", line 209, in wrapper
+        yielded = next(result)
+      File "/usr/local/lib/python3.5/dist-packages/notebook/services/kernels/kernelmanager.py", line 307, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/usr/local/lib/python3.5/dist-packages/notebook/services/kernels/kernelmanager.py", line 387, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: b78938eb-fd8a-4c13-b0ce-da7dcad0cb75)
+[E 23:21:18.345 NotebookApp] {
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "X-Xsrftoken": "2|6b6989e3|774c87cc6006aef43b6cd67a5cbdf16b|1577012082",
+      "Referer": "http://localhost:8888/notebooks/Create%20Model.ipynb",
+      "Accept-Language": "en-US,en;q=0.9,hi-IN;q=0.8,hi;q=0.7",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36",
+      "Host": "localhost:8888",
+      "Cookie": "username-localhost-8080=\"2|1:0|10:1575651594|23:username-localhost-8080|44:MzFhMjlmMzc3YmRhNDliOTg4NzVlMGJmZGNiNjdjMjg=|47283c2f66c198aca2838aa6ed1542f76a58e3ca5f658a992ded9a8b07fff2ec\"; username-localhost-8088=\"2|1:0|10:1575656590|23:username-localhost-8088|44:NTQxYjg4OGE0Y2IyNGM5NWIzM2M0NzgzODljYmEwNWQ=|c7ead5b6b0ba51b6f23d02c505fcaa9736aaf044fae1fd69e5383b953381afd4\"; username-localhost-8888=\"2|1:0|10:1575740831|23:username-localhost-8888|44:Nzk5NmQwZTllNzIwNGNkY2I4MmNhZTBmNTlmZWNlMGY=|21e4571bed6a37379c37e87dbb970d7021452402962f1a1c9a02db0a2dff7473\"; _xsrf=2|6b6989e3|774c87cc6006aef43b6cd67a5cbdf16b|1577012082",
+      "Sec-Fetch-Mode": "cors",
+      "Accept-Encoding": "gzip, deflate, br",
+      "X-Requested-With": "XMLHttpRequest",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Sec-Fetch-Site": "same-origin",
+      "Origin": "http://localhost:8888"
+    }
+[E 23:21:18.345 NotebookApp] 500 POST /api/kernels/b78938eb-fd8a-4c13-b0ce-da7dcad0cb75/restart (127.0.0.1) 77.45ms referer=http://localhost:8888/notebooks/Create%20Model.ipynb
+[W 23:21:18.362 NotebookApp] 404 DELETE /api/sessions/16dc6ae3-a85d-410b-acf0-2bfdb08c6fa3 (127.0.0.1): Session not found: session_id='16dc6ae3-a85d-410b-acf0-2bfdb08c6fa3'
+[W 23:21:18.363 NotebookApp] Session not found: session_id='16dc6ae3-a85d-410b-acf0-2bfdb08c6fa3'
+[W 23:21:18.363 NotebookApp] 404 DELETE /api/sessions/16dc6ae3-a85d-410b-acf0-2bfdb08c6fa3 (127.0.0.1) 1.99ms referer=http://localhost:8888/notebooks/Create%20Model.ipynb
+[I 23:21:18.549 NotebookApp] Kernel started: 824b3476-e6d5-4cae-8d81-2465796e3051
+[I 23:21:46.915 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:22:03.957 NotebookApp] Kernel interrupted: 824b3476-e6d5-4cae-8d81-2465796e3051
+[I 23:23:48.662 NotebookApp] Saving file at /Create Model.ipynb
+[I 23:24:56.879 NotebookApp] Kernel shutdown: 824b3476-e6d5-4cae-8d81-2465796e3051
