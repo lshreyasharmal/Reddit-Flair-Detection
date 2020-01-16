@@ -2809,3 +2809,1297 @@ WARNING:root:kernel c0855e2f-b86e-45fd-bc74-740c5a274984 restarted
 [I 23:22:03.957 NotebookApp] Kernel interrupted: 824b3476-e6d5-4cae-8d81-2465796e3051
 [I 23:23:48.662 NotebookApp] Saving file at /Create Model.ipynb
 [I 23:24:56.879 NotebookApp] Kernel shutdown: 824b3476-e6d5-4cae-8d81-2465796e3051
+[I 02:01:42.679 NotebookApp] 302 GET / (127.0.0.1) 1.25ms
+[I 02:01:48.080 NotebookApp] Kernel started: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:03:07.223 NotebookApp] Kernel interrupted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:03:42.885 NotebookApp] Starting buffering for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:03:49.343 NotebookApp] Kernel restarted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:03:49.475 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:03:51.899 NotebookApp] Restoring connection for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:03:51.899 NotebookApp] Replaying 3 buffered messages
+[I 02:05:48.079 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:07:43.321 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel cbe0e1ef-29c9-42a7-943b-0f3f10142f6c restarted
+[I 02:07:48.649 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:09:48.650 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:11:48.173 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:13:48.168 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:14:49.066 NotebookApp] Starting buffering for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:14:54.230 NotebookApp] Kernel restarted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:14:56.967 NotebookApp] Restoring connection for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:14:56.968 NotebookApp] Replaying 3 buffered messages
+[I 02:15:48.192 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:17:48.200 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:18:44.407 NotebookApp] Starting buffering for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:18:49.428 NotebookApp] Kernel restarted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:18:49.991 NotebookApp] Restoring connection for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:18:49.991 NotebookApp] Replaying 7 buffered messages
+[I 02:19:48.539 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:21:48.160 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:23:47.525 NotebookApp] Kernel interrupted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:23:53.821 NotebookApp] Kernel interrupted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:24:19.882 NotebookApp] Kernel interrupted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:24:22.609 NotebookApp] Kernel interrupted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:24:22.776 NotebookApp] Kernel interrupted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:25:48.096 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:26:34.176 NotebookApp] Starting buffering for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:26:39.198 NotebookApp] Kernel restarted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:26:39.812 NotebookApp] Restoring connection for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:26:39.812 NotebookApp] Replaying 3 buffered messages
+[I 02:27:50.676 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:29:48.906 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:30:17.370 NotebookApp] Starting buffering for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:30:17.540 NotebookApp] Kernel restarted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 02:30:19.973 NotebookApp] Restoring connection for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 02:30:19.973 NotebookApp] Replaying 3 buffered messages
+[I 02:35:08.868 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:39:56.732 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:44:46.711 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:49:36.699 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:54:27.166 NotebookApp] Saving file at /Create Model.ipynb
+[I 02:56:43.551 NotebookApp] Kernel started: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 02:58:49.607 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:00:56.365 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:02:48.234 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:04:48.158 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:06:48.915 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:08:55.395 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:09:40.583 NotebookApp] Starting buffering for 53ee2f85-694d-423c-bba7-d82381a36c56:5c5bb312ea7d4153973786e9e61f40e4
+[I 03:09:40.994 NotebookApp] Kernel restarted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:09:41.586 NotebookApp] Restoring connection for 53ee2f85-694d-423c-bba7-d82381a36c56:5c5bb312ea7d4153973786e9e61f40e4
+[I 03:09:41.586 NotebookApp] Replaying 3 buffered messages
+[I 03:09:54.960 NotebookApp] Kernel interrupted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:09:56.765 NotebookApp] Kernel interrupted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:09:56.969 NotebookApp] Kernel interrupted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:09:57.168 NotebookApp] Kernel interrupted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:09:57.365 NotebookApp] Kernel interrupted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:09:57.537 NotebookApp] Kernel interrupted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:10:05.057 NotebookApp] Starting buffering for 53ee2f85-694d-423c-bba7-d82381a36c56:5c5bb312ea7d4153973786e9e61f40e4
+[I 03:10:10.088 NotebookApp] Kernel restarted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:10:10.790 NotebookApp] Restoring connection for 53ee2f85-694d-423c-bba7-d82381a36c56:5c5bb312ea7d4153973786e9e61f40e4
+[I 03:10:10.790 NotebookApp] Replaying 3 buffered messages
+[I 03:10:43.552 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:12:43.549 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:14:43.556 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 03:14:58.751 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 03:14:58.753 NotebookApp] iopub messages resumed
+[I 03:16:43.586 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 03:18:08.238 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 03:18:08.268 NotebookApp] iopub messages resumed
+[W 03:18:17.150 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 03:18:24.205 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 03:18:24.250 NotebookApp] iopub messages resumed
+[I 03:18:47.689 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:20:43.578 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[W 03:20:55.024 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 03:21:15.141 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 03:22:43.648 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:24:16.856 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:24:43.784 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:26:44.178 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:28:43.964 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:34:43.685 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:36:43.568 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:38:36.542 NotebookApp] Starting buffering for 53ee2f85-694d-423c-bba7-d82381a36c56:5c5bb312ea7d4153973786e9e61f40e4
+[I 03:38:37.753 NotebookApp] Kernel restarted: 53ee2f85-694d-423c-bba7-d82381a36c56
+[I 03:38:38.347 NotebookApp] Restoring connection for 53ee2f85-694d-423c-bba7-d82381a36c56:5c5bb312ea7d4153973786e9e61f40e4
+[I 03:38:38.347 NotebookApp] Replaying 6 buffered messages
+[I 03:38:43.565 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:40:53.047 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:41:48.492 NotebookApp] Starting buffering for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 03:41:49.401 NotebookApp] Kernel restarted: cbe0e1ef-29c9-42a7-943b-0f3f10142f6c
+[I 03:41:50.014 NotebookApp] Restoring connection for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 03:41:50.014 NotebookApp] Replaying 3 buffered messages
+[I 03:42:51.471 NotebookApp] Saving file at /Create Model.ipynb
+[I 03:42:51.538 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 03:47:37.407 NotebookApp] Saving file at /Create Model.ipynb
+[I 03:52:26.768 NotebookApp] Saving file at /Create Model.ipynb
+[I 03:57:16.929 NotebookApp] Saving file at /Create Model.ipynb
+[I 04:02:07.607 NotebookApp] Saving file at /Create Model.ipynb
+[I 04:02:48.564 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 04:04:55.683 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 04:06:54.758 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 04:08:57.509 NotebookApp] Saving file at /Pre-process and Split.ipynb
+[I 04:09:57.616 NotebookApp] Starting buffering for cbe0e1ef-29c9-42a7-943b-0f3f10142f6c:def690e9f25e433093aaddac87fc011c
+[I 04:09:57.616 NotebookApp] Starting buffering for 53ee2f85-694d-423c-bba7-d82381a36c56:5c5bb312ea7d4153973786e9e61f40e4
+[I 19:20:40.029 NotebookApp] The port 8888 is already in use, trying another port.
+[I 19:20:40.069 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 19:20:40.070 NotebookApp] The Jupyter Notebook is running at:
+[I 19:20:40.070 NotebookApp] http://ubuntu:8889/
+[I 19:20:40.070 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:20:40.076 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:22:49.738 NotebookApp] 302 GET / (127.0.0.1) 0.78ms
+[I 19:22:49.752 NotebookApp] 302 GET /tree? (127.0.0.1) 0.91ms
+[W 19:22:54.474 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 11.90ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:22:56.280 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 14.11ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:22:59.040 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.75ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:01.501 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.74ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:04.465 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.70ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[I 19:23:09.222 NotebookApp] 302 GET / (127.0.0.1) 0.67ms
+[I 19:23:09.234 NotebookApp] 302 GET /tree? (127.0.0.1) 0.74ms
+[W 19:23:19.010 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.83ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:20.051 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.61ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:20.346 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.64ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:20.511 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.41ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:20.675 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 2.23ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:20.826 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.38ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:22.308 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.42ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:28.586 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.83ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:35.288 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.79ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:38.242 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.80ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:23:41.038 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.74ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:25:35.996 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.96ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:25:37.467 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.57ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:25:39.784 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.78ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[W 19:25:42.897 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.78ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[I 19:27:55.440 NotebookApp] 302 GET / (127.0.0.1) 0.61ms
+[I 19:27:55.459 NotebookApp] 302 GET /tree? (127.0.0.1) 0.78ms
+[I 19:27:59.166 NotebookApp] 302 GET / (127.0.0.1) 0.85ms
+[I 19:27:59.178 NotebookApp] 302 GET /tree? (127.0.0.1) 0.77ms
+[W 19:28:01.376 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.64ms referer=http://localhost:8881/login?next=%2Ftree%3F
+[W 19:28:05.224 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.59ms referer=http://localhost:8881/login?next=%2Ftree%3F
+[W 19:28:07.966 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.60ms referer=http://localhost:8881/login?next=%2Ftree%3F
+[W 19:29:17.839 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.84ms referer=http://localhost:8881/login?next=%2Ftree%3F
+[W 19:29:23.086 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.86ms referer=http://localhost:8881/login?next=%2Ftree%3F
+[W 19:29:27.330 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.81ms referer=http://localhost:8881/login?next=%2Ftree%3F
+[W 19:29:35.652 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.81ms referer=http://localhost:8880/login?next=%2Ftree%3F
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 19:30:29.874 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 19:30:29.875 NotebookApp] The Jupyter Notebook is running at:
+[I 19:30:29.875 NotebookApp] http://ubuntu:8080/
+[I 19:30:29.875 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:30:29.878 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:33:11.466 NotebookApp] 302 GET / (127.0.0.1) 0.76ms
+[I 19:33:11.482 NotebookApp] 302 GET /tree? (127.0.0.1) 0.78ms
+[I 19:33:16.232 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.48ms
+[I 19:33:27.500 NotebookApp] Kernel started: e8478615-5455-4f4d-8678-69d56251fd68
+[I 19:33:28.467 NotebookApp] Starting buffering for e8478615-5455-4f4d-8678-69d56251fd68:500b1128886d478688e6d7e9b74699b9
+[I 19:33:31.741 NotebookApp] Creating new notebook in 
+[I 19:33:32.137 NotebookApp] Kernel started: 3e24f78c-ead1-4b17-9565-43c8df61c473
+[I 19:35:32.488 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 19:35:44.404 NotebookApp] Saving file at /Create Model.ipynb
+[I 19:37:32.156 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 19:39:32.654 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 19:49:32.996 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 19:51:32.909 NotebookApp] Saving file at /Neural Nets.ipynb
+2019-12-28 19:52:53.825531: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-28 19:52:53.831500: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2095074999 Hz
+2019-12-28 19:52:53.831645: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x704d130 executing computations on platform Host. Devices:
+2019-12-28 19:52:53.831671: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+[I 19:53:32.189 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 19:55:32.511 NotebookApp] Saving file at /Neural Nets.ipynb
+2019-12-28 19:58:40.943225: W tensorflow/core/framework/op_kernel.cc:1622] OP_REQUIRES failed at sparse_xent_op.cc:90 : Invalid argument: Received a label value of 10 which is outside the valid range of [0, 10).  Label values: 5 5 3 7 1 1 1 7 5 10 2 2 3 8 5 9 8 7 9 8 6 1 3 10 6 7 1 6 4 8 3 8
+2019-12-28 19:58:40.943324: W tensorflow/core/common_runtime/base_collective_executor.cc:216] BaseCollectiveExecutor::StartAbort Invalid argument: Received a label value of 10 which is outside the valid range of [0, 10).  Label values: 5 5 3 7 1 1 1 7 5 10 2 2 3 8 5 9 8 7 9 8 6 1 3 10 6 7 1 6 4 8 3 8
+	 [[{{node loss_1/dense_8_loss/SparseSoftmaxCrossEntropyWithLogits/SparseSoftmaxCrossEntropyWithLogits}}]]
+2019-12-28 19:59:17.279441: W tensorflow/core/framework/op_kernel.cc:1622] OP_REQUIRES failed at sparse_xent_op.cc:90 : Invalid argument: Received a label value of 10 which is outside the valid range of [0, 10).  Label values: 10 3 9 6 1 4 3 8 1 8 5 5 4 7 3 4 9 3 3 8 10 8 1 2 2 7 8 5 5 9 3 3
+2019-12-28 19:59:17.279504: W tensorflow/core/common_runtime/base_collective_executor.cc:216] BaseCollectiveExecutor::StartAbort Invalid argument: Received a label value of 10 which is outside the valid range of [0, 10).  Label values: 10 3 9 6 1 4 3 8 1 8 5 5 4 7 3 4 9 3 3 8 10 8 1 2 2 7 8 5 5 9 3 3
+	 [[{{node loss_1/dense_8_loss/SparseSoftmaxCrossEntropyWithLogits/SparseSoftmaxCrossEntropyWithLogits}}]]
+[I 19:59:33.301 NotebookApp] Saving file at /Neural Nets.ipynb
+2019-12-28 19:59:49.263040: W tensorflow/core/framework/op_kernel.cc:1622] OP_REQUIRES failed at sparse_xent_op.cc:90 : Invalid argument: Received a label value of 10 which is outside the valid range of [0, 10).  Label values: 5 3 9 10 10 4 8 2 10 5 5 2 6 4 8 3 1 10 7 6 2 4 9 6 9 4 5 7 3 3 2 8
+2019-12-28 19:59:49.263125: W tensorflow/core/common_runtime/base_collective_executor.cc:216] BaseCollectiveExecutor::StartAbort Invalid argument: Received a label value of 10 which is outside the valid range of [0, 10).  Label values: 5 3 9 10 10 4 8 2 10 5 5 2 6 4 8 3 1 10 7 6 2 4 9 6 9 4 5 7 3 3 2 8
+	 [[{{node loss/dense_8_loss/SparseSoftmaxCrossEntropyWithLogits/SparseSoftmaxCrossEntropyWithLogits}}]]
+[I 20:00:09.800 NotebookApp] Kernel started: aae889f2-0ce1-4049-93e9-c107e0dfbcd4
+[I 20:01:32.202 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 20:03:32.337 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 20:05:32.272 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 20:06:14.136 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 3e24f78c-ead1-4b17-9565-43c8df61c473 restarted
+[I 20:06:25.340 NotebookApp] Starting buffering for 3e24f78c-ead1-4b17-9565-43c8df61c473:a274247f3dba414f867a5e0bcbb51f28
+[I 20:06:25.650 NotebookApp] Kernel restarted: 3e24f78c-ead1-4b17-9565-43c8df61c473
+[I 20:06:26.236 NotebookApp] Restoring connection for 3e24f78c-ead1-4b17-9565-43c8df61c473:a274247f3dba414f867a5e0bcbb51f28
+[I 20:06:26.236 NotebookApp] Replaying 6 buffered messages
+2019-12-28 20:06:43.427157: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-28 20:06:43.432322: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2095074999 Hz
+2019-12-28 20:06:43.432483: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x6690240 executing computations on platform Host. Devices:
+2019-12-28 20:06:43.432509: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+[I 20:07:32.221 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 20:09:32.174 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 20:19:01.701 NotebookApp] Starting buffering for 3e24f78c-ead1-4b17-9565-43c8df61c473:a274247f3dba414f867a5e0bcbb51f28
+[I 20:19:01.702 NotebookApp] Starting buffering for aae889f2-0ce1-4049-93e9-c107e0dfbcd4:cc2a36fa379944018b85a89099dff748
+[I 20:19:01.703 NotebookApp] Starting buffering for e8478615-5455-4f4d-8678-69d56251fd68:2cc8760d281b4f62b6c5f74f448d6227
+[I 00:09:10.987 NotebookApp] Creating new notebook in 
+[I 00:09:11.436 NotebookApp] Kernel started: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 00:09:40.163 NotebookApp] Kernel started: 4ba1a422-6f71-4b75-83a6-fa1ded5db3a1
+[W 00:09:42.498 NotebookApp] Notebook Predict Flair.ipynb is not trusted
+[I 00:09:42.592 NotebookApp] Kernel started: 34bc14ab-d698-491f-8617-ebc4885f98e1
+[I 00:11:12.424 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:13:11.505 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:15:11.463 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:17:11.471 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:19:12.466 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:21:11.451 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:23:11.461 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:24:19.069 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 00:24:20.181 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 00:24:20.841 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 00:24:20.841 NotebookApp] Replaying 6 buffered messages
+[I 00:25:12.422 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:27:11.536 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:29:11.448 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:31:11.456 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:33:11.458 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:35:11.479 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:37:11.486 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:39:11.476 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:41:11.497 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:43:11.474 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 00:59:11.510 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:01:11.476 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:03:11.506 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:05:14.206 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:07:11.501 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:25:11.523 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:27:11.530 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:29:12.886 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:31:12.265 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:33:11.808 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:36:01.379 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 01:36:03.394 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 01:36:03.946 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 01:36:03.947 NotebookApp] Replaying 6 buffered messages
+[I 01:37:12.805 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:39:11.942 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:40:59.244 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 01:41:00.358 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 01:41:00.897 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 01:41:00.897 NotebookApp] Replaying 6 buffered messages
+[I 01:41:11.523 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:43:12.851 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2019-12-29 01:43:56.214054: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 01:43:56.220397: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2095074999 Hz
+2019-12-29 01:43:56.220552: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x8d03b40 executing computations on platform Host. Devices:
+2019-12-29 01:43:56.220580: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+[I 01:44:44.492 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 01:45:11.886 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:47:11.903 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:48:54.983 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:49:11.823 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:51:11.961 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:09:11.967 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:13:12.828 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:17:12.459 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:19:13.653 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:21:13.508 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:23:11.974 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:23:51.717 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 02:23:54.031 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 02:23:54.728 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 02:23:54.728 NotebookApp] Replaying 3 buffered messages
+2019-12-29 02:24:34.990597: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 02:24:34.995435: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2095074999 Hz
+2019-12-29 02:24:34.995557: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x920cc30 executing computations on platform Host. Devices:
+2019-12-29 02:24:34.995581: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+[I 02:25:11.890 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:27:16.211 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:35:13.142 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:38:34.121 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 02:38:35.066 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 02:38:37.523 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 02:38:37.523 NotebookApp] Replaying 6 buffered messages
+[I 02:39:11.696 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2019-12-29 02:39:25.059965: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 02:39:25.059996: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 02:39:25.060017: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 02:39:25.060289: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 02:39:25.130954: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 02:39:25.131095: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x96c1ea0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 02:39:25.131122: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 02:41:13.731 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:44:44.600 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 02:45:12.217 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2019-12-29 02:45:48.673299: W tensorflow/core/framework/op_kernel.cc:1673] OP_REQUIRES failed at sparse_xent_op.cc:90 : Invalid argument: Received a label value of -2 which is outside the valid range of [0, 10).  Label values: 0 6 2 -2 -1 -1 -1 0 2 5 -2 3 5 -2 1 5 5 1 0 3 7 1 0 0 7 3 -2 7 1 4 -2 -1
+2019-12-29 02:45:48.673366: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: Received a label value of -2 which is outside the valid range of [0, 10).  Label values: 0 6 2 -2 -1 -1 -1 0 2 5 -2 3 5 -2 1 5 5 1 0 3 7 1 0 0 7 3 -2 7 1 4 -2 -1
+	 [[{{node loss/dense_2_loss/SparseSoftmaxCrossEntropyWithLogits/SparseSoftmaxCrossEntropyWithLogits}}]]
+[I 02:47:12.244 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2019-12-29 02:47:41.670359: W tensorflow/core/framework/op_kernel.cc:1673] OP_REQUIRES failed at sparse_xent_op.cc:90 : Invalid argument: Received a label value of 10 which is outside the valid range of [0, 10).  Label values: 2 8 7 4 4 10 4 6 3 8 3 1 2 8 3 6 10 6 7 8 5 7 7 9 10 5 9 5 8 6 8 5
+2019-12-29 02:47:41.670430: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: Received a label value of 10 which is outside the valid range of [0, 10).  Label values: 2 8 7 4 4 10 4 6 3 8 3 1 2 8 3 6 10 6 7 8 5 7 7 9 10 5 9 5 8 6 8 5
+	 [[{{node loss/dense_5_loss/SparseSoftmaxCrossEntropyWithLogits/SparseSoftmaxCrossEntropyWithLogits}}]]
+[I 02:49:12.187 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:51:11.966 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:53:11.838 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:55:11.828 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:55:19.484 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 02:55:21.698 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 02:55:22.375 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 02:55:22.375 NotebookApp] Replaying 6 buffered messages
+2019-12-29 02:56:02.554971: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 02:56:02.555005: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 02:56:02.555026: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 02:56:02.555241: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 02:56:02.562643: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 02:56:02.562775: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x9a369f0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 02:56:02.562800: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[W 02:57:52.375 NotebookApp] WebSocket ping timeout after 119989 ms.
+[I 02:57:57.379 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[W 02:58:11.792 NotebookApp] WebSocket ping timeout after 119990 ms.
+[W 02:58:13.129 NotebookApp] WebSocket ping timeout after 119978 ms.
+[W 02:58:14.291 NotebookApp] WebSocket ping timeout after 119914 ms.
+[I 02:58:16.795 NotebookApp] Starting buffering for 4ba1a422-6f71-4b75-83a6-fa1ded5db3a1:f1e8b83c28fa48649cd6b78074f5ab14
+[I 02:58:18.131 NotebookApp] Starting buffering for 34bc14ab-d698-491f-8617-ebc4885f98e1:3185c2b2794d47e9986cc86a3fabc755
+[I 02:58:19.293 NotebookApp] Starting buffering for 3e24f78c-ead1-4b17-9565-43c8df61c473:f888f93ebd4c49369315c4aeaee9fea5
+[W 02:58:19.329 NotebookApp] WebSocket ping timeout after 119931 ms.
+[I 02:58:24.332 NotebookApp] Starting buffering for aae889f2-0ce1-4049-93e9-c107e0dfbcd4:06b362a39809431b9b84357f7efeac85
+[I 10:46:58.059 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 10:46:59.028 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 10:46:59.728 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 10:46:59.728 NotebookApp] Replaying 3 buffered messages
+[I 10:47:16.919 NotebookApp] Kernel interrupted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 10:48:56.123 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 10:49:30.968 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 10:49:32.178 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 10:49:32.818 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 10:49:32.818 NotebookApp] Replaying 3 buffered messages
+2019-12-29 10:50:31.456959: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 10:50:31.456995: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 10:50:31.457017: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 10:50:31.457269: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 10:50:31.464468: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 10:50:31.464615: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x9ffe9c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 10:50:31.464641: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 10:51:10.582 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 10:53:55.255 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 10:56:24.928 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 10:58:58.814 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 11:02:03.243 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 11:10:50.841 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:041156bdd7be408e8db2021e3237eed5
+[I 17:38:47.439 NotebookApp] 302 GET / (127.0.0.1) 0.91ms
+[W 17:39:52.523 NotebookApp] Notebook Predict Flair.ipynb is not trusted
+[I 17:42:00.766 NotebookApp] Saving file at /Neural Nets.ipynb
+[I 17:42:02.359 NotebookApp] Starting buffering for 3e24f78c-ead1-4b17-9565-43c8df61c473:0e866aee2e694e18821a5d6fd0b3aed4
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 17:42:03.769 NotebookApp] Kernel restarted: 3e24f78c-ead1-4b17-9565-43c8df61c473
+[I 17:42:05.473 NotebookApp] Restoring connection for 3e24f78c-ead1-4b17-9565-43c8df61c473:0e866aee2e694e18821a5d6fd0b3aed4
+[I 17:42:05.473 NotebookApp] Replaying 5 buffered messages
+2019-12-29 17:42:08.912282: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 17:42:08.912311: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 17:42:08.912332: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 17:42:08.912539: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 17:42:08.919970: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 17:42:08.920133: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x6b64550 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 17:42:08.920157: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 17:43:21.166 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 17:43:22.778 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 17:43:23.574 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 17:43:23.574 NotebookApp] Replaying 5 buffered messages
+[I 17:43:51.163 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:44:01.941 NotebookApp] Saving file at /Neural Nets.ipynb
+2019-12-29 17:44:25.125359: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 17:44:25.125395: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 17:44:25.125416: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 17:44:25.125636: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 17:44:25.132745: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 17:44:25.132864: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x8f1b1b0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 17:44:25.132888: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 17:46:00.583 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 17:46:01.857 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 17:46:04.484 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:46:04.647 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 17:46:04.647 NotebookApp] Replaying 6 buffered messages
+[I 17:48:24.970 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:49:13.161 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 17:49:14.273 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 17:49:14.959 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 17:49:14.960 NotebookApp] Replaying 3 buffered messages
+2019-12-29 17:49:57.504141: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 17:49:57.504171: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 17:49:57.504190: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 17:49:57.504399: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 17:49:57.511499: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 17:49:57.511645: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x8e14180 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 17:49:57.511669: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 17:50:44.919 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 17:50:45.727 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 17:50:45.735 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:50:46.511 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 17:50:46.511 NotebookApp] Replaying 6 buffered messages
+2019-12-29 17:51:05.855537: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 17:51:05.855569: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 17:51:05.855597: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 17:51:05.855810: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 17:51:05.862735: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 17:51:05.862861: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x87a9fa0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 17:51:05.862886: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 17:53:04.969 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 18:00:04.746 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 18:02:25.344 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 18:11:45.354 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 18:14:05.275 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 18:16:25.511 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 18:18:48.218 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:00:59.749 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 19:00:59.751 NotebookApp] Starting buffering for 3e24f78c-ead1-4b17-9565-43c8df61c473:0e866aee2e694e18821a5d6fd0b3aed4
+[I 19:00:59.751 NotebookApp] Starting buffering for 34bc14ab-d698-491f-8617-ebc4885f98e1:f9cc07daade24ce28d664d3103c3f488
+[I 19:00:59.752 NotebookApp] Starting buffering for 4ba1a422-6f71-4b75-83a6-fa1ded5db3a1:7e984bb73822484186d64a9d4284fcda
+[I 19:00:59.752 NotebookApp] Starting buffering for aae889f2-0ce1-4049-93e9-c107e0dfbcd4:e5983f446de14beea851445b1d84032a
+[I 19:00:59.752 NotebookApp] Starting buffering for e8478615-5455-4f4d-8678-69d56251fd68:1d4c0c88ca004a1c9e0d146c8477b904
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 21:09:05.328 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 21:09:06.030 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 21:09:06.030 NotebookApp] Replaying 6 buffered messages
+[I 21:09:32.968 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:09:38.733 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 21:09:39.042 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 21:09:39.594 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 21:09:39.594 NotebookApp] Replaying 3 buffered messages
+2019-12-29 21:10:22.086806: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 21:10:22.086840: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 21:10:22.086864: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 21:10:22.087092: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 21:10:22.094206: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 21:10:22.094333: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x9061030 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 21:10:22.094358: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 21:11:53.336 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:16:34.348 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:18:52.767 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:21:13.502 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:23:32.829 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:25:52.856 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:28:12.930 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:30:33.139 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:35:12.804 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:37:32.833 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:38:23.737 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 21:38:25.748 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 21:38:26.470 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 21:38:26.470 NotebookApp] Replaying 3 buffered messages
+[I 21:39:52.716 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2019-12-29 21:40:55.769970: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 21:40:55.770007: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 21:40:55.770029: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 21:40:55.770252: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 21:40:55.777671: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 21:40:55.777809: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x9c08310 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 21:40:55.777834: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 21:42:11.303 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 21:42:12.314 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 21:42:12.751 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:42:12.854 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 21:42:12.854 NotebookApp] Replaying 3 buffered messages
+2019-12-29 21:42:38.544569: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 21:42:38.544602: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 21:42:38.544623: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 21:42:38.544831: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 21:42:38.552014: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 21:42:38.552152: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x9eb8560 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 21:42:38.552177: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 21:44:35.045 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:46:52.759 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:49:12.757 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:51:34.715 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:53:52.735 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:56:14.371 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:00:52.823 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:03:12.855 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:05:33.908 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:05:53.167 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 22:05:54.878 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 22:05:55.464 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 22:05:55.464 NotebookApp] Replaying 6 buffered messages
+[I 22:07:52.822 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2019-12-29 22:09:30.781690: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 22:09:30.781734: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 22:09:30.781759: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 22:09:30.782001: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 22:09:30.789630: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 22:09:30.789779: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x9432310 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 22:09:30.789806: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 22:10:12.519 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:12:34.489 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:14:52.527 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:17:12.893 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:19:32.484 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:21:52.507 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:24:12.728 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:25:37.773 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 22:25:38.984 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 22:25:39.594 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 22:25:39.594 NotebookApp] Replaying 3 buffered messages
+[I 22:26:32.443 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2019-12-29 22:26:53.797887: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2019-12-29 22:26:53.797917: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2019-12-29 22:26:53.797936: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2019-12-29 22:26:53.798162: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2019-12-29 22:26:53.805346: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2019-12-29 22:26:53.805503: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0xb0e7ff0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2019-12-29 22:26:53.805528: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 22:28:52.482 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:37:18.073 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:d0cd519c1d4f4fc8b8ecbf1ed7b9438b
+[I 01:23:50.922 NotebookApp] 302 GET / (127.0.0.1) 0.99ms
+[I 01:25:59.711 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:29:59.688 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 01:35:59.697 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 02:52:50.300 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:33ae86fbff6a4f9c895bfc93af345390
+[I 16:43:48.039 NotebookApp] 302 GET / (127.0.0.1) 0.97ms
+2020-01-01 16:44:10.334400: W tensorflow/python/util/util.cc:319] Sets are not currently considered sequences, but this may change in the future, so consider avoiding using them.
+[I 16:45:56.519 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:47:56.667 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:03:56.486 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:05:56.566 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:07:56.880 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:09:56.541 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:11:56.563 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:23:56.484 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:25:56.482 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:26:40.725 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 17:26:43.442 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 17:26:44.003 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 17:26:44.003 NotebookApp] Replaying 3 buffered messages
+[I 17:27:57.536 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2020-01-01 17:27:57.807465: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-01-01 17:27:57.807507: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-01-01 17:27:57.807529: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2020-01-01 17:27:57.807749: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-01-01 17:27:57.815105: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2020-01-01 17:27:57.815243: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x9b43ef0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-01-01 17:27:57.815269: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 17:29:58.854 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:48:10.142 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 19:17:01.220 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 19:17:03.150 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 19:17:03.749 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 19:17:03.749 NotebookApp] Replaying 6 buffered messages
+2020-01-01 19:18:18.380039: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-01-01 19:18:18.380077: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-01-01 19:18:18.380100: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2020-01-01 19:18:18.380323: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-01-01 19:18:18.387438: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2020-01-01 19:18:18.387567: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x9c7d490 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-01-01 19:18:18.387591: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 19:19:01.291 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:21:07.095 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:23:02.447 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[W 19:26:39.243 NotebookApp] WebSocket ping timeout after 119989 ms.
+[I 19:26:44.246 NotebookApp] Starting buffering for e8478615-5455-4f4d-8678-69d56251fd68:9fab70fb21744a92854fea6e2e6ffca2
+[W 19:26:50.579 NotebookApp] WebSocket ping timeout after 119987 ms.
+[I 19:26:55.581 NotebookApp] Starting buffering for aae889f2-0ce1-4049-93e9-c107e0dfbcd4:9696d7c2c04f435683139fe1eedf3c8c
+[W 19:26:55.595 NotebookApp] WebSocket ping timeout after 119895 ms.
+[I 19:27:00.596 NotebookApp] Starting buffering for 4ba1a422-6f71-4b75-83a6-fa1ded5db3a1:81fee64cd48046f78cce1c296ac3fc6b
+[W 19:27:03.750 NotebookApp] WebSocket ping timeout after 114398 ms.
+[I 19:27:08.752 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 19:31:00.429 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 19:31:01.087 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:31:01.129 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 19:31:01.129 NotebookApp] Replaying 3 buffered messages
+[I 19:31:09.715 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 19:31:10.426 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 19:31:10.964 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 19:31:10.964 NotebookApp] Replaying 6 buffered messages
+[I 19:33:01.017 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:35:00.995 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:37:01.286 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:39:01.001 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:39:58.569 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 19:39:59.679 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 19:40:00.283 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 19:40:00.283 NotebookApp] Replaying 6 buffered messages
+[I 19:41:00.997 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:43:00.987 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:45:01.005 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:47:01.003 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:49:01.050 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:51:01.056 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:55:01.060 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 19:56:30.898 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 19:56:32.008 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 19:56:32.583 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 19:56:32.583 NotebookApp] Replaying 6 buffered messages
+[I 19:57:01.046 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2020-01-01 19:58:20.846457: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-01-01 19:58:20.846498: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-01-01 19:58:20.846544: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2020-01-01 19:58:20.846827: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-01-01 19:58:20.854454: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2020-01-01 19:58:20.854592: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0xa41aa80 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-01-01 19:58:20.854618: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 19:59:01.037 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:01:01.097 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:07:01.124 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:09:01.083 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:11:01.339 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:13:04.349 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:15:01.068 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:17:01.076 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:19:01.075 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:21:01.062 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:23:01.094 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:25:01.087 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:27:01.085 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:29:01.085 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:31:01.121 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:35:42.607 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 20:35:44.823 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 20:35:45.431 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 20:35:45.432 NotebookApp] Replaying 3 buffered messages
+2020-01-01 20:36:49.255212: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-01-01 20:36:49.255250: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-01-01 20:36:49.255275: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2020-01-01 20:36:49.255499: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-01-01 20:36:49.262795: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2020-01-01 20:36:49.262932: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0xb8fc910 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-01-01 20:36:49.262956: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 20:37:01.252 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:39:01.079 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:43:01.158 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:45:03.595 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:47:01.177 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:49:01.184 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 20:51:01.350 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:31:04.681 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:33:01.149 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:33:50.764 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 21:33:52.175 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 21:33:52.773 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 21:33:52.773 NotebookApp] Replaying 6 buffered messages
+[I 21:35:01.027 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:37:01.011 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2020-01-01 21:38:53.543440: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-01-01 21:38:53.543482: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-01-01 21:38:53.543508: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2020-01-01 21:38:53.543788: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-01-01 21:38:53.551995: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2020-01-01 21:38:53.552141: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0xbfaede0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-01-01 21:38:53.552167: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 21:39:01.010 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:41:01.049 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:43:01.057 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:45:01.048 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:47:01.256 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:51:01.133 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:53:04.370 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:55:01.111 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:57:01.614 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 21:59:01.091 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 22:01:01.118 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2020-01-01 22:01:41.504538: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: assertion failed: [Condition x == y did not hold element-wise:] [x (loss/dense_52_loss/SparseSoftmaxCrossEntropyWithLogits/Shape_1:0) = ] [32 1] [y (loss/dense_52_loss/SparseSoftmaxCrossEntropyWithLogits/strided_slice:0) = ] [32 287]
+	 [[{{node loss/dense_52_loss/SparseSoftmaxCrossEntropyWithLogits/assert_equal_1/Assert/Assert}}]]
+[I 22:03:01.082 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2020-01-01 22:04:12.356908: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: assertion failed: [Condition x == y did not hold element-wise:] [x (loss/dense_55_loss/SparseSoftmaxCrossEntropyWithLogits/Shape_1:0) = ] [32 1] [y (loss/dense_55_loss/SparseSoftmaxCrossEntropyWithLogits/strided_slice:0) = ] [32 287]
+	 [[{{node loss/dense_55_loss/SparseSoftmaxCrossEntropyWithLogits/assert_equal_1/Assert/Assert}}]]
+[I 22:05:05.389 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 23:31:38.081 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:4b3bc52c71334653a8c3860a55765776
+[I 16:04:20.665 NotebookApp] 302 GET / (127.0.0.1) 1.03ms
+[I 16:04:20.685 NotebookApp] 302 GET /tree? (127.0.0.1) 0.89ms
+[I 16:04:22.881 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 11.48ms
+[I 16:05:06.237 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:28240cb318f348a9b6fe8885f80766bb
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 16:05:08.049 NotebookApp] Kernel restarted: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 16:05:08.591 NotebookApp] Restoring connection for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:28240cb318f348a9b6fe8885f80766bb
+[I 16:05:08.591 NotebookApp] Replaying 3 buffered messages
+2020-01-04 16:06:12.685705: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-01-04 16:06:12.685739: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-01-04 16:06:12.685768: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2020-01-04 16:06:12.685994: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-01-04 16:06:12.693225: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2020-01-04 16:06:12.693361: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0xc95b860 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-01-04 16:06:12.693385: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-01-04 16:06:14.831802: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: assertion failed: [Condition x == y did not hold element-wise:] [x (loss/dense_loss/SparseSoftmaxCrossEntropyWithLogits/Shape_1:0) = ] [32 1] [y (loss/dense_loss/SparseSoftmaxCrossEntropyWithLogits/strided_slice:0) = ] [32 287]
+	 [[{{node loss/dense_loss/SparseSoftmaxCrossEntropyWithLogits/assert_equal_1/Assert/Assert}}]]
+[I 16:07:01.257 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2020-01-04 16:08:55.542627: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: assertion failed: [Condition x == y did not hold element-wise:] [x (loss/dense_9_loss/SparseSoftmaxCrossEntropyWithLogits/Shape_1:0) = ] [32 1] [y (loss/dense_9_loss/SparseSoftmaxCrossEntropyWithLogits/strided_slice:0) = ] [32 287]
+	 [[{{node loss/dense_9_loss/SparseSoftmaxCrossEntropyWithLogits/assert_equal_1/Assert/Assert}}]]
+[I 16:09:01.280 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2020-01-04 16:09:42.137763: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: assertion failed: [Condition x == y did not hold element-wise:] [x (loss/dense_11_loss/SparseSoftmaxCrossEntropyWithLogits/Shape_1:0) = ] [32 1] [y (loss/dense_11_loss/SparseSoftmaxCrossEntropyWithLogits/strided_slice:0) = ] [32 287]
+	 [[{{node loss/dense_11_loss/SparseSoftmaxCrossEntropyWithLogits/assert_equal_1/Assert/Assert}}]]
+[I 16:11:01.242 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+2020-01-04 16:11:46.709948: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: assertion failed: [Condition x == y did not hold element-wise:] [x (loss/dense_13_loss/SparseSoftmaxCrossEntropyWithLogits/Shape_1:0) = ] [32 1] [y (loss/dense_13_loss/SparseSoftmaxCrossEntropyWithLogits/strided_slice:0) = ] [32 287]
+	 [[{{node loss/dense_13_loss/SparseSoftmaxCrossEntropyWithLogits/assert_equal_1/Assert/Assert}}]]
+2020-01-04 16:12:14.518652: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: assertion failed: [Condition x == y did not hold element-wise:] [x (loss/dense_17_loss/SparseSoftmaxCrossEntropyWithLogits/Shape_1:0) = ] [32 1] [y (loss/dense_17_loss/SparseSoftmaxCrossEntropyWithLogits/strided_slice:0) = ] [32 287]
+	 [[{{node loss/dense_17_loss/SparseSoftmaxCrossEntropyWithLogits/assert_equal_1/Assert/Assert}}]]
+[I 16:13:01.309 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:15:01.210 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:17:01.242 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:19:01.222 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:21:01.244 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:23:01.265 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:25:01.259 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:27:01.437 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:29:01.371 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:31:01.350 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:33:01.239 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:35:01.255 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:55:01.347 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:57:01.559 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 16:59:01.297 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:01:19.359 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:11:01.532 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:13:01.624 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:17:02.043 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:19:03.251 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:21:01.266 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:23:01.251 NotebookApp] Saving file at /Reddit Flair Detection.ipynb
+[I 17:26:02.081 NotebookApp] Uploading file to /Reddit_Flair_Detector.ipynb
+[I 17:26:04.679 NotebookApp] Kernel started: 71d4e004-3b03-47b1-812a-757470a8202b
+[I 17:26:11.016 NotebookApp] Starting buffering for 71d4e004-3b03-47b1-812a-757470a8202b:df33aac9e6f24bf4a69b1b579fd44166
+[I 17:26:11.326 NotebookApp] Kernel restarted: 71d4e004-3b03-47b1-812a-757470a8202b
+[I 17:26:11.868 NotebookApp] Restoring connection for 71d4e004-3b03-47b1-812a-757470a8202b:df33aac9e6f24bf4a69b1b579fd44166
+[I 17:26:11.868 NotebookApp] Replaying 6 buffered messages
+[I 17:28:04.711 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 17:29:07.024 NotebookApp] Kernel shutdown: aae889f2-0ce1-4049-93e9-c107e0dfbcd4
+[I 17:29:07.328 NotebookApp] Kernel shutdown: e8478615-5455-4f4d-8678-69d56251fd68
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/logging/__init__.py", line 1881, in shutdown
+    h.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 892, in flush
+    self._current_handler.flush()
+  File "/home/iiitd/.local/lib/python3.5/site-packages/absl/logging/__init__.py", line 785, in flush
+    self.stream.flush()
+  File "/usr/local/lib/python3.5/dist-packages/ipykernel/iostream.py", line 341, in flush
+    if self.pub_thread.thread.is_alive():
+AttributeError: 'NoneType' object has no attribute 'thread'
+[I 17:29:08.036 NotebookApp] Kernel shutdown: 3e24f78c-ead1-4b17-9565-43c8df61c473
+[I 17:29:08.339 NotebookApp] Kernel shutdown: 34bc14ab-d698-491f-8617-ebc4885f98e1
+[I 17:29:08.641 NotebookApp] Kernel shutdown: 4ba1a422-6f71-4b75-83a6-fa1ded5db3a1
+[I 17:29:14.045 NotebookApp] Kernel interrupted: 71d4e004-3b03-47b1-812a-757470a8202b
+[I 17:30:04.746 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 17:32:04.694 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 17:40:46.454 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:28240cb318f348a9b6fe8885f80766bb
+[I 17:40:46.455 NotebookApp] Starting buffering for 71d4e004-3b03-47b1-812a-757470a8202b:df33aac9e6f24bf4a69b1b579fd44166
+[I 17:08:56.194 NotebookApp] 302 GET / (127.0.0.1) 0.88ms
+[I 17:10:35.413 NotebookApp] Kernel started: bd0e8578-4103-4d69-bdfb-8e05b3a654bf
+[I 17:11:02.207 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 17:13:01.975 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 18:23:03.328 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:17:02.007 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:19:04.070 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:21:03.970 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:23:03.379 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:25:04.758 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+2020-01-09 19:26:14.789622: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2020-01-09 19:26:14.789661: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2020-01-09 19:26:14.789683: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (ubuntu): /proc/driver/nvidia/version does not exist
+2020-01-09 19:26:14.789912: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+2020-01-09 19:26:14.797191: I tensorflow/core/platform/profile_utils/cpu_utils.cc:101] CPU Frequency: 2095074999 Hz
+2020-01-09 19:26:14.797346: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0xcf22bf0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-01-09 19:26:14.797372: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 19:27:02.094 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:29:02.474 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:31:04.201 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:33:03.050 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+2020-01-09 19:33:19.344522: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 26505600 exceeds 10% of system memory.
+2020-01-09 19:33:19.383080: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 26505600 exceeds 10% of system memory.
+2020-01-09 19:33:19.397688: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 26505600 exceeds 10% of system memory.
+[I 19:35:03.168 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:41:02.630 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:43:06.315 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+2020-01-09 19:44:31.905742: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 26505600 exceeds 10% of system memory.
+2020-01-09 19:44:31.937844: W tensorflow/core/framework/cpu_allocator_impl.cc:81] Allocation of 26505600 exceeds 10% of system memory.
+2020-01-09 19:44:56.711425: W tensorflow/core/framework/op_kernel.cc:1650] OP_REQUIRES failed at cast_op.cc:123 : Unimplemented: Cast string to float is not supported
+2020-01-09 19:44:56.711480: E tensorflow/core/common_runtime/executor.cc:654] Executor failed to create kernel. Unimplemented: Cast string to float is not supported
+	 [[{{node loss/dense_14_loss/Cast}}]]
+[I 19:45:02.094 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:47:02.138 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+2020-01-09 19:47:53.884435: W tensorflow/core/framework/op_kernel.cc:1673] OP_REQUIRES failed at sparse_xent_op.cc:90 : Invalid argument: Received a label value of 12 which is outside the valid range of [0, 10).  Label values: 5 6 2 12 11 10 11 10 10 11 4 8 7 4 3 8 1 12 11 1 10 2 11 12 1 7 1 5 7 10 1 2
+2020-01-09 19:47:53.884538: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: Received a label value of 12 which is outside the valid range of [0, 10).  Label values: 5 6 2 12 11 10 11 10 10 11 4 8 7 4 3 8 1 12 11 1 10 2 11 12 1 7 1 5 7 10 1 2
+	 [[{{node loss/dense_17_loss/SparseSoftmaxCrossEntropyWithLogits/SparseSoftmaxCrossEntropyWithLogits}}]]
+2020-01-09 19:48:59.715301: W tensorflow/core/framework/op_kernel.cc:1673] OP_REQUIRES failed at sparse_xent_op.cc:90 : Invalid argument: Received a label value of 11 which is outside the valid range of [0, 11).  Label values: 5 11 3 3 1 1 3 10 0 5 8 7 11 8 11 10 9 1 0 6 9 0 3 8 7 7 6 6 11 1 0 1
+2020-01-09 19:48:59.715384: W tensorflow/core/common_runtime/base_collective_executor.cc:217] BaseCollectiveExecutor::StartAbort Invalid argument: Received a label value of 11 which is outside the valid range of [0, 11).  Label values: 5 11 3 3 1 1 3 10 0 5 8 7 11 8 11 10 9 1 0 6 9 0 3 8 7 7 6 6 11 1 0 1
+	 [[{{node loss/dense_20_loss/SparseSoftmaxCrossEntropyWithLogits/SparseSoftmaxCrossEntropyWithLogits}}]]
+[I 19:49:02.072 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:51:02.400 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:53:04.353 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 19:55:12.004 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:23:02.136 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:25:02.098 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:27:02.639 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:29:02.088 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:31:02.157 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:33:02.074 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:35:02.834 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:37:04.062 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:39:02.189 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:41:04.785 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:43:02.166 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:45:02.700 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:53:03.217 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:55:02.527 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:57:02.141 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 20:59:03.868 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:23:02.286 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:25:02.323 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:39:02.171 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:41:05.279 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:43:03.239 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:45:02.544 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:47:02.362 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:49:02.697 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:51:02.086 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:57:02.207 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:59:02.447 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:01:02.385 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:03:02.120 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:05:02.136 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:07:02.410 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:09:02.289 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:15:02.264 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:17:02.131 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:19:06.250 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:29:02.371 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:31:05.290 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:33:02.129 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:34:23.168 NotebookApp] Kernel interrupted: 71d4e004-3b03-47b1-812a-757470a8202b
+[I 23:35:03.931 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:45:06.710 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 00:59:02.551 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 01:01:04.117 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 01:03:02.180 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 01:05:02.261 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+terminate called after throwing an instance of 'std::bad_alloc'
+terminate called recursively
+[I 01:06:47.326 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 71d4e004-3b03-47b1-812a-757470a8202b restarted
+[I 01:07:02.172 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[W 01:10:01.985 NotebookApp] WebSocket ping timeout after 119946 ms.
+[W 01:10:06.045 NotebookApp] WebSocket ping timeout after 119983 ms.
+[I 01:10:06.994 NotebookApp] Starting buffering for 71d4e004-3b03-47b1-812a-757470a8202b:095b96583b504dcf864abc981b319986
+[I 01:10:11.049 NotebookApp] Starting buffering for bd0e8578-4103-4d69-bdfb-8e05b3a654bf:0def264a761947858cdc563203d84191
+[W 01:10:23.812 NotebookApp] WebSocket ping timeout after 119851 ms.
+[I 01:10:28.816 NotebookApp] Starting buffering for 2bd33aeb-f455-42d4-b7ee-83ed476b0612:f2e0651481b244ad8dd70cb8d2d8cdc0
+[I 04:17:26.012 NotebookApp] 302 GET / (127.0.0.1) 12.81ms
+[I 04:19:51.078 NotebookApp] Kernel shutdown: 2bd33aeb-f455-42d4-b7ee-83ed476b0612
+[I 04:19:52.186 NotebookApp] Kernel shutdown: bd0e8578-4103-4d69-bdfb-8e05b3a654bf
+[W 04:19:52.187 NotebookApp] 404 DELETE /api/sessions/1a7d692b-80ce-4c42-a40b-2c76dfbab7f0 (127.0.0.1): Session not found: session_id='1a7d692b-80ce-4c42-a40b-2c76dfbab7f0'
+[W 04:19:52.188 NotebookApp] Session not found: session_id='1a7d692b-80ce-4c42-a40b-2c76dfbab7f0'
+[W 04:19:52.188 NotebookApp] 404 DELETE /api/sessions/1a7d692b-80ce-4c42-a40b-2c76dfbab7f0 (127.0.0.1) 1107.30ms referer=http://localhost:8882/tree?
+[W 04:19:52.191 NotebookApp] 404 DELETE /api/sessions/e5477a15-b415-4745-9df2-d2a7ee39f198 (127.0.0.1): Session not found: session_id='e5477a15-b415-4745-9df2-d2a7ee39f198'
+[W 04:19:52.191 NotebookApp] Session not found: session_id='e5477a15-b415-4745-9df2-d2a7ee39f198'
+[W 04:19:52.192 NotebookApp] 404 DELETE /api/sessions/e5477a15-b415-4745-9df2-d2a7ee39f198 (127.0.0.1) 1.79ms referer=http://localhost:8882/tree?
+[I 04:36:16.841 NotebookApp] Kernel started: 2841f736-f6d2-4487-9c3d-0fc874d8d397
+[W 05:38:05.670 NotebookApp] WebSocket ping timeout after 119931 ms.
+[I 05:38:10.674 NotebookApp] Starting buffering for 71d4e004-3b03-47b1-812a-757470a8202b:276c4c6af451440d9b2ae716c65cff80
+[W 05:38:17.356 NotebookApp] WebSocket ping timeout after 119851 ms.
+[I 05:38:22.360 NotebookApp] Starting buffering for 2841f736-f6d2-4487-9c3d-0fc874d8d397:75f0f2fc72cd4d84b5790063646380f3
+[I 21:47:29.433 NotebookApp] 302 GET / (127.0.0.1) 0.86ms
+[I 21:47:38.322 NotebookApp] Kernel shutdown: 2841f736-f6d2-4487-9c3d-0fc874d8d397
+[I 21:47:38.627 NotebookApp] Kernel shutdown: 71d4e004-3b03-47b1-812a-757470a8202b
+[W 21:49:38.183 NotebookApp] Notebook Reddit_Flair_Detector.ipynb is not trusted
+[I 21:49:38.816 NotebookApp] Kernel started: 6da73896-9936-4b0a-adcc-467ea3415a07
+[I 21:51:39.773 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:13:29.253 NotebookApp] Starting buffering for 6da73896-9936-4b0a-adcc-467ea3415a07:7b2fe4990fdc49da8bdb5c1a2563438f
+[I 22:47:44.639 NotebookApp] Discarding 4 buffered messages for 6da73896-9936-4b0a-adcc-467ea3415a07:7b2fe4990fdc49da8bdb5c1a2563438f
+[I 22:47:54.788 NotebookApp] Starting buffering for 6da73896-9936-4b0a-adcc-467ea3415a07:7191f7f89aff4e099c09d12d1f83d3ff
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+Traceback (most recent call last):
+  File "/usr/local/bin/jupyter-notebook", line 8, in <module>
+    sys.exit(main())
+  File "/usr/local/lib/python3.5/dist-packages/jupyter_core/application.py", line 268, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/traitlets/config/application.py", line 663, in launch_instance
+    app.initialize(argv)
+  File "</usr/local/lib/python3.5/dist-packages/decorator.py:decorator-gen-7>", line 2, in initialize
+  File "/usr/local/lib/python3.5/dist-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/notebook/notebookapp.py", line 1720, in initialize
+    self.init_webapp()
+  File "/usr/local/lib/python3.5/dist-packages/notebook/notebookapp.py", line 1482, in init_webapp
+    self.http_server.listen(port, self.ip)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/tcpserver.py", line 151, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/netutil.py", line 174, in bind_sockets
+    sock.bind(sockaddr)
+OSError: [Errno 99] Cannot assign requested address
+Traceback (most recent call last):
+  File "/usr/local/bin/jupyter-notebook", line 8, in <module>
+    sys.exit(main())
+  File "/usr/local/lib/python3.5/dist-packages/jupyter_core/application.py", line 268, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/traitlets/config/application.py", line 663, in launch_instance
+    app.initialize(argv)
+  File "</usr/local/lib/python3.5/dist-packages/decorator.py:decorator-gen-7>", line 2, in initialize
+  File "/usr/local/lib/python3.5/dist-packages/traitlets/config/application.py", line 87, in catch_config_error
+    return method(app, *args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/notebook/notebookapp.py", line 1720, in initialize
+    self.init_webapp()
+  File "/usr/local/lib/python3.5/dist-packages/notebook/notebookapp.py", line 1482, in init_webapp
+    self.http_server.listen(port, self.ip)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/tcpserver.py", line 151, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/usr/local/lib/python3.5/dist-packages/tornado/netutil.py", line 174, in bind_sockets
+    sock.bind(sockaddr)
+OSError: [Errno 99] Cannot assign requested address
+[I 22:50:33.471 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 22:50:33.471 NotebookApp] The Jupyter Notebook is running at:
+[I 22:50:33.471 NotebookApp] http://ubuntu:8888/
+[I 22:50:33.471 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:50:33.475 NotebookApp] No web browser found: could not locate runnable browser.
+[I 22:52:01.475 NotebookApp] 302 GET / (127.0.0.1) 0.70ms
+[I 22:52:01.494 NotebookApp] 302 GET /tree? (127.0.0.1) 0.74ms
+[I 22:52:06.490 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.46ms
+[I 22:52:12.691 NotebookApp] Kernel started: 8539c85c-59de-466c-8f59-664780e5255f
+[I 22:54:12.814 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 22:56:14.271 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:18:13.512 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:26:13.661 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:40:13.846 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 23:50:13.686 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 00:06:13.504 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 00:24:12.851 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 00:38:21.663 NotebookApp] Saving file at /Reddit_Flair_Detector.ipynb
+[I 00:42:06.266 NotebookApp] Starting buffering for 8539c85c-59de-466c-8f59-664780e5255f:bf2db3c45f514a908c0788048e0c1c9c
+[I 13:42:54.692 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 13:43:28.594 NotebookApp] Serving notebooks from local directory: /home/iiitd/reddit/Reddit-Flair-Detection/Jupyter Notebooks
+[I 13:43:28.594 NotebookApp] The Jupyter Notebook is running at:
+[I 13:43:28.594 NotebookApp] http://ubuntu:8888/
+[I 13:43:28.595 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 13:43:28.598 NotebookApp] No web browser found: could not locate runnable browser.
+[I 13:46:27.905 NotebookApp] 302 GET / (127.0.0.1) 0.76ms
+[W 13:51:42.485 NotebookApp] Notebook Reddit Flair Detection Using ML Algos.ipynb is not trusted
+[I 13:51:43.150 NotebookApp] Kernel started: 7832eb4c-879e-4bb1-ae0f-b334c7081e0c
+[W 13:51:47.104 NotebookApp] Notebook Predict Flair.ipynb is not trusted
+[I 13:51:47.231 NotebookApp] Kernel started: 44174d43-646a-4336-b26a-e7a3242d3fae
+[W 13:51:49.242 NotebookApp] Notebook Analyze.ipynb is not trusted
+[I 13:51:49.354 NotebookApp] Kernel started: f68a5720-3713-47f3-aca4-5ecc194f7b78
+[I 13:53:44.544 NotebookApp] Saving file at /Reddit Flair Detection Using ML Algos.ipynb
+[W 13:53:44.546 NotebookApp] Notebook Reddit Flair Detection Using ML Algos.ipynb is not trusted
+[I 13:53:49.898 NotebookApp] Saving file at /Analyze.ipynb
+[W 13:53:49.898 NotebookApp] Notebook Analyze.ipynb is not trusted
