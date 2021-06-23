@@ -16,7 +16,7 @@ cycler==0.10.0
 Cython==0.28.3
 decorator==4.4.0
 distro-info===0.10
-Django==1.11.1
+Django==2.2.24
 django-appconf==1.0.2
 django-compressor==2.2
 django-extra-views==0.11.0
